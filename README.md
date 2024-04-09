@@ -1,25 +1,25 @@
 # Título do Projeto
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º semestre/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Dado a movimentada rotina moderna, as pessoas têm dificuldade em encontrar tempo para cuidar de tarefas cotidianas como lazer, saúde, tempo de descanso mental/físico, e ainda conseguir manter uma alimentação balanceada.  Tal situação ocorre, principalmente, pela falta de informação, motivação ou conhecimento sobre como implementar hábitos saudáveis de forma consistente. É neste contexto que a Health_Web surge. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Ferreira Vieira
+* Artur Coelho Duarte 
+* Alexsander Lima De Andrade Vieira 
+* Guilherme Henrique Cardoso Souza  
+* Paola Beltrão Santos  
+* Ryan Gustavo Torres 
 
 ## Orientador
 
-* Nome completo do professor
+* Hayala Nepomuceno Curto
 
 # Documentação
 
