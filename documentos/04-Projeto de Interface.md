@@ -26,6 +26,8 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 Login de usuario
+
+
 ![1 (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/a0b301de-c1e3-439c-9891-3bdc8a514bd4)
 
 
@@ -33,6 +35,8 @@ Login de usuario
 
 
 Criação de Novo Usuário
+
+
 ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/1a8603c6-f7b8-4565-871b-ff092e81e0d9)
 
 
@@ -40,6 +44,8 @@ Criação de Novo Usuário
 
 
 Seleção de Sexo
+
+
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/27983de4-33ce-4f88-88bf-abdb0e277603)
 
 
@@ -47,6 +53,8 @@ Seleção de Sexo
 
 
 Informações Físicas
+
+
 ![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/536f9c79-f594-4682-a133-1d863d6af859)
 
 
@@ -54,6 +62,8 @@ Informações Físicas
 
 
 O que você procura 
+
+
 ![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/53aaa896-c9cd-4350-be60-5f56815d80a4)
 
 
@@ -61,6 +71,8 @@ O que você procura
 
 
 Página de Registro Diário
+
+
 ![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/a8eb18c3-ca11-4c2d-a62d-a746bcc10794)
 
 
@@ -68,6 +80,8 @@ Página de Registro Diário
 
 
 Receitas nutricionais
+
+
 ![7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dc571826-1eb8-4d48-b533-1ccbe32e61b4)
 
 
@@ -75,6 +89,8 @@ Receitas nutricionais
 
 
 Videos instrutivos
+
+
 ![8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/9b622403-e0c4-4718-af67-141d2c2d71d3)
 
 
@@ -82,6 +98,8 @@ Videos instrutivos
                              
 
 Progresso
+
+
 ![9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/fecf7d49-a49e-4bdc-b98f-a1e62b3cb079)
 
 
