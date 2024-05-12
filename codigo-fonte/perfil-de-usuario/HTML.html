@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Meu Perfil</h1>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Perfil</a></li>
+                <li><a href="#">Configurações</a></li>
+                <li><a href="#">Sair</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="user-info">
+        <div class="container">
+            <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256__340.png" alt="Foto do Usuário">
+            <p>João da Silva</p>
+            <p>30 anos</p>
+            <p>São Paulo, Brasil</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="achievements">
+            <div class="achievement">
+                <h2>Perda de Peso</h2>
+                <canvas id="weight-loss-chart" width="200" height="200"></canvas>
+                <p>Perdeu 10kg</p>
+            </div>
+            <div class="achievement">
+                <h2>Corrida</h2>
+                <canvas id="running-chart" width="200" height="200"></canvas>
+                <p>Correu 100 milhas</p>
+            </div>
+            <div class="achievement">
+                <h2>Alimentação Saudável</h2>
+                <canvas id="healthy-eating-chart" width="200" height="200"></canvas>
+                <p>Seguiu a dieta por 50 dias</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Meu Perfil</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
