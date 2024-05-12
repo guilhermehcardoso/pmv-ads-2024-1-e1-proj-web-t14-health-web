@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tela de Login e Cadastro</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Login</h2>
+    <form id="loginForm">
+      <input type="email" id="emailLogin" placeholder="E-mail" style="width: calc(100% - 20px);" required>
+      <input type="password" id="senhaLogin" placeholder="Senha" style="width: calc(100% - 20px);" required>
+      <button type="button" id="entrarLogin" onclick="logar()" style="width: calc(100% - 20px); margin-top: 10px; display: block; margin-left: auto; margin-right: auto;">Entrar</button>
+      <span id="esqueceuSenha">Esqueceu a senha?</span>
+      <span id="senhaMessage" class="error-message"></span>
+      <p id="loginSuccessMessage" style="display: none; color: green;">Login bem-sucedido!</p>
+    </form>
+  </div>
+
+  <p class="spacer"></p>
+
+  <div class="container">
+    <h2>Cadastro</h2>
+    <form id="cadastroForm" onsubmit="return validarCadastro()">
+      <input type="email" id="emailCadastro" placeholder="E-mail" style="width: calc(100% - 20px);" required>
+      <input type="email" id="confirmarEmailCadastro" placeholder="Confirmar E-mail" style="width: calc(100% - 20px);" required>
+      <input type="password" id="senhaCadastro" placeholder="Senha" style="width: calc(100% - 20px);" required>
+      <input type="password" id="confirmarSenhaCadastro" placeholder="Confirmar Senha" style="width: calc(100% - 20px);" required>
+      <button type="submit" style="width: calc(100% - 20px); margin-top: 10px; display: block; margin-left: auto; margin-right: auto;">Cadastrar</button>
+    </form>
+  </div>
+
+  <script>
+    // Função para lidar com o login
+    function logar() {
+      var email = document.getElementById('emailLogin').value;
+      var senha = document.getElementById('senhaLogin').value;
+
+      fetch('usuarios.json') // Carregar o arquivo JSON
+        .then(response => response.json())
+        .then(data => {
+          var usuarios = data.usuarios;
+          var usuarioEncontrado = usuarios.find(usuario => usuario.email === email && usuario.senha === senha);
+
+          if (usuarioEncontrado) {
+            document.getElementById('loginSuccessMessage').style.display = 'block'; // Exibir a mensagem de sucesso
+            setTimeout(function() {
+              window.location.href = "http://127.0.0.1:5500/pagina%202/index.html"; // Redirecionar para a página "home.html" após 2 segundos
+            }, 2000);
+          } else {
+            alert('Usuário ou senha incorretos');
+          }
+        })
+        .catch(error => {
+          console.error('Erro ao carregar o arquivo JSON:', error);
+        });
+    }
+
+    // Função para validar o cadastro
+    function validarCadastro() {
+      var email = document.getElementById('emailCadastro').value;
+      var confirmarEmail = document.getElementById('confirmarEmailCadastro').value;
+      var senha = document.getElementById('senhaCadastro').value;
+      var confirmarSenha = document.getElementById('confirmarSenhaCadastro').value;
+
+      // Verificar se todos os campos estão preenchidos
+      if (email === "" || confirmarEmail === "" || senha === "" || confirmarSenha === "") {
+        alert("Por favor, preencha todos os campos.");
+        return false;
+      }
+
+      // Verificar se os emails e senhas coincidem
+      if (email !== confirmarEmail || senha !== confirmarSenha) {
+        alert("Os campos de email ou senha não coincidem.");
+        return false;
+      }
+
+      // Se todos os campos estiverem corretos
+      // Redirecionar para a página de destino
+      window.location.href = "http://127.0.0.1:5500/pagina%202/index.html";
+      return false;
+    }
+
+    // Evento para lidar com o clique no link "esqueceu a senha"
+    document.addEventListener('DOMContentLoaded', function() {
+      const esqueceuSenha = document.getElementById('esqueceuSenha');
+      esqueceuSenha.addEventListener('click', function(event) {
+        event.preventDefault(); 
+        alert('Um código de recuperação foi enviado para o seu email.');
+      });
+    });
+  </script>
+</body>
+</html>
