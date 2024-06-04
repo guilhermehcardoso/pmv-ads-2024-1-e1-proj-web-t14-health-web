@@ -1,13 +1,15 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+Tela de Cadastro (RF-001)
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+Responsável: Alex
 
-### Título da funcionalidade
+O acesso a tela de cadastro ser feito por opção de menu “Cadastre-se”. Como os dados foram foram em HTML, CSS e JS.
+
+
+Exemplo da tela de cadastro:
 
 [Adicione imagem da funcionalidade/tela]
-
 
 #### Requisito atendido
 
