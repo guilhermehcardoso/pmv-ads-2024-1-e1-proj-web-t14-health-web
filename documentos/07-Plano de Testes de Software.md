@@ -4,7 +4,7 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | Requisitos  |Objetivo do teste 	|Passos em| Critérios de êxito |A A Responsável
 |:---|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
