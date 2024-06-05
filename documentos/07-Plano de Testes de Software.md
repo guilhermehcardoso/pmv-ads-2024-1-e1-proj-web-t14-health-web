@@ -3,9 +3,30 @@
 [Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
-| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito|   Responsável  |
-|     :---:     |    :---:   |       :---:       |     :---:  |      :---:       |    :---:       |  
-| git status    | git status | git status        | git status |                  |    Paola       |            
+| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
+|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+| git status    | git status | git status        | git status |                   |    Alexsander  |  
+
+
+| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
+|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+| git status    | git status | git status        | git status |                   |    Gabriel     |            
+
+
+| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
+|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+| git status    | git status | git status        | git status |                   |    Guilherme   |
+Guilherme     |
+
+
+| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
+|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+| git status    | git status | git status        | git status |                   |    Paola       |
+
+
+| Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
+|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+| git status    | git status | git status        | git status |                   |    Ryan        |            
 
 |Caso de Teste    | Requisitos  |Passos em| Critérios de êxito
 |:---|:---|
