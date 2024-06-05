@@ -4,7 +4,7 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-| Caso de teste | Requisitos| Objetivo do teste |
+| Caso de teste | Requisitos| 
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
