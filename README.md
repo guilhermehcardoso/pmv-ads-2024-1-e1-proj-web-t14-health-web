@@ -3,7 +3,7 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`1º semestre/2022`
+`1º semestre/2024`
 
 Dado a movimentada rotina moderna, as pessoas têm dificuldade em encontrar tempo para cuidar de tarefas cotidianas como lazer, saúde, tempo de descanso mental/físico, e ainda conseguir manter uma alimentação balanceada.  Tal situação ocorre, principalmente, pela falta de informação, motivação ou conhecimento sobre como implementar hábitos saudáveis de forma consistente. É neste contexto que a Health_Web surge. 
 
