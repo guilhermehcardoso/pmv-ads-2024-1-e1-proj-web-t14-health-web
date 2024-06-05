@@ -4,9 +4,8 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
-|     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
-| xgxdxgdxgvsdgxcv  | git status | git status        | git status |                   |    Alexsander  |  
-gfgfdgf
+|               |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
+|               | git status | git status        | git status |                   |    Alexsander  |  
 
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
