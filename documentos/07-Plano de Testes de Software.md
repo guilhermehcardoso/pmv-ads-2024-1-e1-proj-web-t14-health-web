@@ -5,8 +5,8 @@
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
-| git status    | git status | git status        | git status |                   |    Alexsander  |  
-
+| xgxdxgdxgvsdgxcv  | git status | git status        | git status |                   |    Alexsander  |  
+gfgfdgf
 
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
@@ -16,7 +16,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
 | git status    | git status | git status        | git status |                   |    Guilherme   |
-Guilherme     |
+
 
 
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
@@ -28,8 +28,9 @@ Guilherme     |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
 | git status    | git status | git status        | git status |                   |    Ryan        |            
 
-|Caso de Teste    | Requisitos  |Passos em| Critérios de êxito
-|:---|:---|
+
+
+
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
