@@ -6,7 +6,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
  Command | Description |
 | --- | --- |
-| git status fdfbnbnm bnmnjm,/m,/ nmbhm  nmjgb / n jk,jm | List all new or modified files |
+| paodsjddsksxckvhcfg nbjnbvm mn,j
+| List all new or modified files |
 
 
 
