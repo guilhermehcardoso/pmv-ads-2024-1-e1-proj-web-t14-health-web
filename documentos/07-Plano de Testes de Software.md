@@ -4,6 +4,11 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 |Caso de Teste    | Requisitos  |Passos em| Critérios de êxito
 |:---|:---|
 | Requisitos Associados | RF-X |
