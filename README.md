@@ -11,7 +11,6 @@ Dado a movimentada rotina moderna, as pessoas têm dificuldade em encontrar temp
 ## Integrantes
 
 * Gabriel Ferreira Vieira
-* Artur Coelho Duarte 
 * Alexsander Lima De Andrade Vieira 
 * Guilherme Henrique Cardoso Souza  
 * Paola Beltrão Santos  
