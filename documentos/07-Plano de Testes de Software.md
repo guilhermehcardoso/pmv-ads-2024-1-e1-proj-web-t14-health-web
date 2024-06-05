@@ -3,13 +3,10 @@
 [Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
-| Left-aligned | Center-aligned | Right-aligned || Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Left-aligned | Center-aligned | Right-aligned | Right-aligned |
+| :---         |     :---:      |          ---: | ---:          |
+| git status   | git status     | git status    | git status    |
+
 |Caso de Teste    | Requisitos  |Passos em| Critérios de êxito
 |:---|:---|
 | Requisitos Associados | RF-X |
