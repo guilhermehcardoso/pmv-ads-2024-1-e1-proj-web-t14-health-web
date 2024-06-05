@@ -6,8 +6,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |    :---:      |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
 |               |git status  | g                 | git status |                   |    Alexsander  |  
-
-dos links da página Home Página        
+       
 | Caso de teste | Requisitos | Objetivo do teste | Passos em  |Critérios de êxito |   Responsável  |
 |     :---:     |    :---:   |       :---:       |     :---:  |      :---:        |    :---:       |  
 | git status    | git status | git status        | git status |                   |    Gabriel     |            
