@@ -18,6 +18,8 @@ Foram empregadas três fontes distintas no desenvolvimento da aplicação . Como
 
 Logotipos
 Para a criação do logotipo da aplicação, foi utilizado o azul.
+
+
 ![337052467-74efb6b9-07bd-468a-a642-7d114b2a2223](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/96bde32d-1ef1-4418-9171-8a50085ba09a)
 
 
