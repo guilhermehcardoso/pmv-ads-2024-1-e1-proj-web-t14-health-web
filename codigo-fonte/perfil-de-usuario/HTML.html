@@ -3,63 +3,104 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Perfil</title>
+    <title>Página de Saúde</title>
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="scripts.js" defer></script>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>Meu Perfil</h1>
-        </div>
-    </header>
-
-    <nav>
-        <div class="container">
-            <ul>
-                <li><a href="#">Início</a></li>
-                <li><a href="#">Perfil</a></li>
-                <li><a href="#">Configurações</a></li>
-                <li><a href="#">Sair</a></li>
-            </ul>
-        </div>
-    </nav>
-
-    <section class="user-info">
-        <div class="container">
-            <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256__340.png" alt="Foto do Usuário">
-            <p>João da Silva</p>
-            <p>30 anos</p>
-            <p>São Paulo, Brasil</p>
-        </div>
-    </section>
-
     <div class="container">
-        <div class="achievements">
-            <div class="achievement">
-                <h2>Perda de Peso</h2>
-                <canvas id="weight-loss-chart" width="200" height="200"></canvas>
-                <p>Perdeu 10kg</p>
+        <header>
+            <a href="https://imgbb.com/">
+                <img src="https://i.ibb.co/jrFdkW1/337052467-74efb6b9-07bd-468a-a642-7d114b2a2223.png" alt="Logo" border="0" style="height: 50px;">
+            </a>
+            <nav class="header-links">
+                <a href="#">Perfil</a>
+                <a href="#">Início</a>
+                <a href="#">Receitas</a>
+                <a href="#">Vídeos</a>
+                <a href="#">Sair</a>
+            </nav>
+        </header>
+
+        <section class="user-info">
+            <div class="profile-pic-container">
+                <img id="profile-pic" src="https://i.ibb.co/mC71w5T/foto-perfil-de-usuario.webp" alt="Foto do perfil do usuário">
+                <input type="file" id="file-input" accept="image/*">
+                <label for="file-input">Alterar foto</label>
             </div>
-            <div class="achievement">
-                <h2>Corrida</h2>
-                <canvas id="running-chart" width="200" height="200"></canvas>
-                <p>Correu 100 milhas</p>
+            <div>
+                <p>Nome completo: João da Silva</p>
+                <p>E-mail: joao.silva@email.com</p>
+                <p>Telefone: (11) 98765-4321</p>
+                <p>Idade: 30 anos</p>
+                <p>Endereço: São Paulo, Brasil</p>
             </div>
-            <div class="achievement">
-                <h2>Alimentação Saudável</h2>
-                <canvas id="healthy-eating-chart" width="200" height="200"></canvas>
-                <p>Seguiu a dieta por 50 dias</p>
+        </section>
+
+        <section class="charts-section">
+            <div class="chart-container">
+                <div class="chart-title">Dias Seguindo a Dieta</div>
+                <canvas id="chart1"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="dias-seguindo" placeholder="Seguindo">
+                    <input type="number" id="dias-nao-seguindo" placeholder="Não Seguindo">
+                    <button onclick="updateChart('chart1', [parseInt(document.getElementById('dias-seguindo').value), parseInt(document.getElementById('dias-nao-seguindo').value)])">Atualizar</button>
+                </div>
             </div>
-        </div>
+            <div class="chart-container">
+                <div class="chart-title">Peso Perdido</div>
+                <canvas id="chart2"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="peso-perdido" placeholder="Peso Perdido">
+                    <input type="number" id="peso-estavel" placeholder="Peso Estável">
+                    <button onclick="updateChart('chart2', [parseInt(document.getElementById('peso-perdido').value), parseInt(document.getElementById('peso-estavel').value)])">Atualizar</button>
+                </div>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Horas de Sono</div>
+                <canvas id="chart3"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="horas-dormidas" placeholder="Horas Dormidas">
+                    <input type="number" id="horas-nao-dormidas" placeholder="Horas Não Dormidas">
+                    <button onclick="updateChart('chart3', [parseInt(document.getElementById('horas-dormidas').value), parseInt(document.getElementById('horas-nao-dormidas').value)])">Atualizar</button>
+                </div>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Consumo de Caloria</div>
+                <canvas id="chart4"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="consumo-baixo" placeholder="Consumo Baixo">
+                    <input type="number" id="consumo-medio" placeholder="Consumo Médio">
+                    <input type="number" id="consumo-alto" placeholder="Consumo Alto">
+                    <button onclick="updateChart('chart4', [parseInt(document.getElementById('consumo-baixo').value), parseInt(document.getElementById('consumo-medio').value), parseInt(document.getElementById('consumo-alto').value)])">Atualizar</button>
+                </div>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Estabilidade de Humor</div>
+                <canvas id="chart5"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="manha" placeholder="Manhã">
+                    <input type="number" id="tarde" placeholder="Tarde">
+                    <input type="number" id="noite" placeholder="Noite">
+                    <button onclick="updateChart('chart5', [parseInt(document.getElementById('manha').value), parseInt(document.getElementById('tarde').value), parseInt(document.getElementById('noite').value)])">Atualizar</button>
+                </div>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Tipos de Corrida</div>
+                <canvas id="chart6"></canvas>
+                <div class="edit-section">
+                    <input type="number" id="corrida-curta" placeholder="Corrida Curta">
+                    <input type="number" id="corrida-media" placeholder="Corrida Média">
+                    <input type="number" id="corrida-longa" placeholder="Corrida Longa">
+                    <button onclick="updateChart('chart6', [parseInt(document.getElementById('corrida-curta').value), parseInt(document.getElementById('corrida-media').value), parseInt(document.getElementById('corrida-longa').value)])">Atualizar</button>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            &copy; 2023 Saúde em Foco. Todos os direitos reservados.
+        </footer>
     </div>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Meu Perfil</p>
-        </div>
-    </footer>
-
-    <script src="script.js"></script>
 </body>
 </html>
