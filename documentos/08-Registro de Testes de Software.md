@@ -1,8 +1,18 @@
 # Registro de Testes de Software
 
-Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
+CT-06: Verificar a tela inicial.
 
-Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
+Responsável: Gabriel.
+
+Mensagem de confirmação de cadastro do livro
+![Captura de tela 2024-06-05 203032](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/b845244f-3118-45ea-8758-1735c198c5ec)
+
+CT-07:verificar a tela de receita  .
+
+Responsável: Gabriel.
+
+Mensagem de confirmação de cadastro do livro
+![Captura de tela 2024-06-05 203116](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/65f56cfa-8058-4c52-b3cb-8ab7ad961936)
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
