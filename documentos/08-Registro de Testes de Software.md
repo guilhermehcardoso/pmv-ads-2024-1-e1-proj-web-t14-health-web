@@ -36,6 +36,18 @@ Informações armazenadas no LocalStorage do usuário logado.
 
 ![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/b7499bc3-a8f0-4a1d-96dc-30ced43848e2)
 
+CT-05: Verificar a página de perfil de usuários cadastrados.
+
+Responsável: Alex 
+
+![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/ad233484-341f-4bcc-8ca9-1cceeb0fedd3)
+
+Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar. 
+
+![pp2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/1dbf067e-87df-42ba-927b-5a024083681d)
+
+![pp3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/7d6daadc-9f98-41e4-9009-83aa5042b2b5)
+
 
 CT-06: Verificar a tela inicial.
 
