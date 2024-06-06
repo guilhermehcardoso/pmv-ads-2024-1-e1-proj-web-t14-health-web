@@ -30,7 +30,7 @@
 |:---|:---|
 | Requisitos Associados | RF-05 - Imagem ,descrição, planejamento do usuario  |
 | Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
-| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. 3. Visualizar a página Home.4. Clicar em Meu Perfil se estiver logado.5. Visualizar a página e conferir informações de cadastro. 6. Upar uma imagem para foto de perfil.7. Atualizar, se escolher, as conquistas nos gráficos.|
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
 
 |Caso de Teste    | CT-06 - Receita do dia  |
