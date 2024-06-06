@@ -4,7 +4,7 @@
 
 
 
-**CT-03: Verificar o cadastro de usuários.**
+CT-03: Verificar o cadastro de usuários.
 
 Responsável: Ryan.
 
@@ -20,7 +20,7 @@ Informações armazenadas no LocalStorage após o usuário se cadastrar.
 
 ![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ace29e65-21ea-4e47-9900-8d9f5a52b274)
 
-**CT-04: Verificar o login de usuários.**
+CT-04: Verificar o login de usuários.
 
 Responsável: Guilherme.
 
@@ -36,9 +36,14 @@ Informações armazenadas no LocalStorage do usuário logado.
 
 ![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cfde3643-7d7d-43c2-869c-e5664a1e5265)
 
+Usuario preenche os campos de dados pessoais de forma correta.
+
+![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
+
+
 CT-05: Verificar a página de perfil de usuários cadastrados.
 
-Responsável: Alex 
+Responsável: Alexsander 
 
 ![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/ad233484-341f-4bcc-8ca9-1cceeb0fedd3)
 
@@ -63,7 +68,7 @@ Responsável: Gabriel.
 ![Captura de tela 2024-06-05 203116](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/65f56cfa-8058-4c52-b3cb-8ab7ad961936)
 
 CT- 08: Verificar página vídeos
-Responsável: Alexsander Lima
+Responsável: Alexsander 
 Página vídeos:
 
 ![pagvideo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/6eef3138-86c1-43e8-86e6-c277ca5c9f3d)
