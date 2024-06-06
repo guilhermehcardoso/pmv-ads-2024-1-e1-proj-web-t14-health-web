@@ -1,298 +1,50 @@
-# Plano de Testes de Software
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Home</td>
-  <td>
-   <ul>
-    <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
-   <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
-   <li>RF-005:	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
-   </ul>
-  </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar nos links da página Home.</li>
-   </ol>
-   </td>
-  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Maria</td>
- </tr>
-</table>
+|Caso de Teste    | CT-01 - Pagina incial ..." Health Web|
+|:---|:---|
+| Requisitos Associados | RF-01 calcular consumo de água | 
+| Objetivo do Teste | Atrair o Cliente  |
+| Passos | 1. Acessar o site <br/> 2. Clicar no botao calcular quantidade recomendada  <br/> 3. Calcular peso recomendado no botão <br/> 5. Cliclar no connect com a sua Saude Agora  <br/>6. Pagina busca por academia mais proxima de você <br/> 
+| Critérios de êxito |o cliente é atraido a pagina de cadastro   |
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-02: Verificar o funcionamento do filtro de pesquisa</td>
-  <td>
-   <ul>
-    <li>RF-003:	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar livros e disciplinas das tutorias      disponíveis.</li>
-   </ul>
-  </td>
-  <td>Verificar se o filtro de pesquisa está recuperando os dados inseridos pelo usuário</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Digitar no filtro de pesquisa algum dado presente na página Livros e verificar se o resultado é exibido na página.</li>
-   </ol>
-   </td>
-  <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado.</td>
-  <td>Maria</td>
- </tr>
-</table>
+|Caso de Teste    | CT-02 - Cadastro de credenciais |
+|:---|:---|
+| Requisitos Associados | RF-02 O usuário deve cadastrar o e-mail e senha para criar uma conta através da pagina crie sua conta |
+| Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
+| Passos | 1. Acessar o site <br/>2. Clicar no botão "Se cadastrar" <br/> 3. Inserir todos os dados requisitados para cadastro <br/> 4. Clicar no botão "Salvar" |
+| Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>  
- </tr>
- <tr>
-  <td>CT-03: Verificar detalhes dos livros</td>
-  <td>
-   <ul>
-    <li>RF-006:	O site deve apresentar, para cada livro, uma imagem correspondente à capa.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
-   </ul>
-  </td>
-  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página Livros</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Visualizar as informações referentes aos livros disponíveis na página.</li>
-   </ol>
-   </td>
-  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
-  <td>João</td>
- </tr>
-</table>
+|Caso de Teste    | CT-03 - Login |
+|:---|:---|
+| Requisitos Associados | RF-01	Cada usuário deve fazer o login na página através de um e-mail e uma senha |
+| Objetivo do Teste | Verificar se o usuário consegue fazer o login |
+| Passos | 1. Acessar o site <br/>2. Clicar no campo e-mail  e inserir o e-mail cadastrado <br/>3. Clicar no campo  inserir a senha cadastrada <br/>4. Clicar no botão "Entrar"|
+| Critérios de êxito | O usuario é |
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-04: Verificar o cadastro de usuários</td>
-  <td>
-   <ul>
-    <li>RF-001:	 O site deve permitir ao usuário cadastrar uma conta.</li>
-   </ul>
-  </td>
-  <td>Verificar se o cadastro está sendo feito corretamente.</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li> Clicar em "Cadastre-se", no Menu.</li>
-    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
-   </ol>
-   </td>
-  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".</td>
-  <td>Silvia</td>
- </tr>
-</table>
+|Caso de Teste    | CT-04 - Recuperar ou alterar a senha |
+|:---|:---|
+| Requisitos Associados | RF-06 - O sistema deve permitir que os usuários recuperem suas senhas caso as esqueçam ou necessitem alterá-las por motivos de segurança. |
+| Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
+| Passos | 1. Acessar o site <br/> 2. Clicar no botão: "recuperar senha" <br/> 3. Clicar no campo "Email" e digitar o email do usuário <br/> 4. Digitar a nova senha no campo "Nova senha" <br/> 5.Digitar novamente a senha no campo "Confirmar senha" <br/> 6. Clicar no botão "ok" para salvar|
+| Critérios de êxito | Uma nova senha é definida , o usuario será redirecionado ao seu Perfil |
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-05: Verificar o login de usuários</td>
-  <td>
-   <ul>
-   <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
-   </ul>
-  </td>
-  <td>Verificar se o login está sendo feito corretamente. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em “Entrar”, no menu.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-   </ol>
-   </td>
-  <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
-  <td>Maria</td>
- </tr>
+|Caso de Teste    | CT-05 -Perfil de Usuario  |
+|:---|:---|
+| Requisitos Associados | RF-05 - Imagem ,descrição, planejamento do usuario  |
+| Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
+| Critérios de êxito |direcionamento a pagina de receita do dia  |
 
- <table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
-  <tr>
-  <td>CT-06: Verificar o cadastro de livros</td>
-  <td>
-   <ul>
-   <li>RF-004	O site deve permitir ao usuário fazer o cadastro de livros.</li>
-   </ul>
-  </td>
-  <td>Verificar se o cadastro de livros está sendo feito corretamente. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em “Entrar”, no menu.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-    <li>Visualizar a página Perfil.</li>
-    <li>Clicar em “Cadastro de livros”, no menu.</li>
-    <li>Visualizar a página Cadastro de Livros.</li>
-    <li>Inserir as informações sobre o livro.</li>
-    <li>Clicar em “Cadastrar”.</li>
-   </ol>
-   </td>
-  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
-  <td>João</td>
- </tr>
-</table>
+|Caso de Teste    | CT-06 - Receita do dia  |
+|:---|:---|
+| Requisitos Associados | RF-05 - frase motivacional,imagem e uma receita fitness   |
+| Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
+| Critérios de êxito | pagina de exercicio  |
 
- <table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
-  <tr>
-  <td>CT-07: Verificar o cadastro de tutores</td>
-  <td>
-   <ul>
-   <li>RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
-   </ul>
-  </td>
-  <td>Verificar se o cadastro de tutores está sendo feito corretamente. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em “Entrar”, no menu.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-    <li>Visualizar a página Perfil.</li>
-    <li>Clicar em “Cadastro de tutores”, no menu.</li>
-    <li>Visualizar a página Cadastro de Tutores.</li>
-    <li>Inserir as informações sobre o tutor.</li>
-    <li>Clicar em “Cadastrar”.</li>
-   </ol>
-   </td>
-  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
-  <td>Beatriz</td>
- </tr>
-</table>
- 
- <table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
-  <tr>
-  <td>CT-08: Verificar a página de Tutores</td>
-  <td>
-   <ul>
-   <li>RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.</li>
-   </ul>
-  </td>
-  <td>Verificar os detalhes dos Tutores e visualizar seus respectivos perfis. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em “Tutores”, no menu.</li>
-    <li>Visualizar a página "Tutores".</li>
-    <li>Na página "Tutores", é possível visualizar os perfis com foto e informações dos tutores, além da barra de pesquisa acima dos perfis.</li>
-  
-   </ul>
-   </ol>
-   </td>
-  <td>Deve ser possível visualizar todos os perfis de Tutores, com suas respectivas fotos e informações, além da visualização da barra de pesquisa acima dos perfis.</td>
-  <td>Pedro</td>
- </tr>
-</table>
+|Caso de Teste    | CT-07 -ryan |
+|:---|:---|
+| Requisitos Associados | RF-07 - Imagem ,descrição, planejamento do usuario  |
+| Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
+| Critérios de êxito |fggfgfga  |
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
-  <tr>
-  <td>CT-09: Verificar a página de perfil de usuários cadastrados</td>
-  <td>
-   <ul>
-   <li>RF-009	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.</li>
-   </ul>
-  </td>
-  <td>Verificar se a página Perfil está apresentando as informações cadastradas pelo usuário corretamente. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em "Cadastre-se", no Menu.</li>
-    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
-    <li>Visualizar a página Login.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-    <li>Visualizar a página Perfil.</li>
-   </ol>
-   </td>
-  <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
-  <td>Silvia</td>
- </tr>
-</table>
 
