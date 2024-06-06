@@ -10,11 +10,24 @@ O acesso a tela de cadastro ser feito por opção de menu “Cadastre-se”. Com
 Exemplo da tela de cadastro:
 
 [Adicione imagem da funcionalidade/tela]
+Tela de Perfil (RF-005)
+Responsável: Vânia
+
+O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/d7f75b08-23b0-4064-9267-fcf1d9565cd1)
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-005: O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. ]
 
+![pp11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/e6f12479-f2ef-43e5-ad8e-9dd1ddbe2fc8)
+
+[RF-005: o site deve permitir ao usuário trocar a imagem ao selecionar na foto de perfil]
+
+![pp22](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/3fd5b213-a37b-4588-bc9f-d8610d88e7da)
+
+[RF-005: O site deve permitir ao usuário atualizar os dados dos seus gráficos com metas e ganhos pessoais.]
 
 #### Artefatos da funcionalidade
 
