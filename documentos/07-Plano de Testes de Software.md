@@ -40,11 +40,11 @@
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito | pagina de exercicio  |
 
-|Caso de Teste    | CT-07 -ryan |
+|Caso de Teste    | CT-07 - Página Vídeos |
 |:---|:---|
-| Requisitos Associados | RF-07 - Imagem ,descrição, planejamento do usuario  |
-| Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
-| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
-| Critérios de êxito |fggfgfga  |
+| Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino  |
+| Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao superior direito clicar em "Vídeos" <br/> 3. Visualizar as informações referentes aos vídeos disponíveis na página.
+| Critérios de êxito | Direcionamento a página de vídeos |
 
 
