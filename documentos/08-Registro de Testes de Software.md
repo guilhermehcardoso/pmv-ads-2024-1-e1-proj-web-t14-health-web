@@ -16,6 +16,7 @@ Mensagem de confirmação de cadastro do livro
 CT- 08: Verificar página vídeos
 Responsável: Alexsander Lima
 Página vídeos:
+
 ![pagvideo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/6eef3138-86c1-43e8-86e6-c277ca5c9f3d)
 
 Caso clique em umas das playlist de alongue-se:
