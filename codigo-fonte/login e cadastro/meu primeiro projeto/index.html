@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -5,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tela de Login e Cadastro</title>
   <link rel="stylesheet" href="index.css">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/smkrHNL/337052467-74efb6b9-07bd-468a-a642-7d114b2a2223.png" alt="337052467-74efb6b9-07bd-468a-a642-7d114b2a2223" border="0"></a>
 </head>
 <body>
   <div class="container">
@@ -15,7 +17,7 @@
       <button type="button" id="entrarLogin" onclick="logar()" style="width: calc(100% - 20px); margin-top: 10px; display: block; margin-left: auto; margin-right: auto;">Entrar</button>
       <span id="esqueceuSenha">Esqueceu a senha?</span>
       <span id="senhaMessage" class="error-message"></span>
-      <p id="loginSuccessMessage" style="display: none; color: green;">Login bem-sucedido!</p>
+      <p id="loginSuccessMessage" style="display: none; color: rgb(29, 206, 103);">Login bem-sucedido!</p>
     </form>
   </div>
 
@@ -33,57 +35,68 @@
   </div>
 
   <script>
-    // Função para lidar com o login
-    function logar() {
-      var email = document.getElementById('emailLogin').value;
-      var senha = document.getElementById('senhaLogin').value;
-
-      fetch('usuarios.json') // Carregar o arquivo JSON
-        .then(response => response.json())
-        .then(data => {
-          var usuarios = data.usuarios;
-          var usuarioEncontrado = usuarios.find(usuario => usuario.email === email && usuario.senha === senha);
-
-          if (usuarioEncontrado) {
-            document.getElementById('loginSuccessMessage').style.display = 'block'; // Exibir a mensagem de sucesso
-            setTimeout(function() {
-              window.location.href = "http://127.0.0.1:5500/pagina%202/index.html"; // Redirecionar para a página "home.html" após 2 segundos
-            }, 2000);
-          } else {
-            alert('Usuário ou senha incorretos');
-          }
-        })
-        .catch(error => {
-          console.error('Erro ao carregar o arquivo JSON:', error);
-        });
-    }
-
-    // Função para validar o cadastro
+    // Função para validar e armazenar o cadastro no localStorage
     function validarCadastro() {
       var email = document.getElementById('emailCadastro').value;
       var confirmarEmail = document.getElementById('confirmarEmailCadastro').value;
       var senha = document.getElementById('senhaCadastro').value;
       var confirmarSenha = document.getElementById('confirmarSenhaCadastro').value;
 
-      // Verificar se todos os campos estão preenchidos
       if (email === "" || confirmarEmail === "" || senha === "" || confirmarSenha === "") {
         alert("Por favor, preencha todos os campos.");
         return false;
       }
 
-      // Verificar se os emails e senhas coincidem
       if (email !== confirmarEmail || senha !== confirmarSenha) {
         alert("Os campos de email ou senha não coincidem.");
         return false;
       }
 
-      // Se todos os campos estiverem corretos
-      // Redirecionar para a página de destino
-      window.location.href = "http://127.0.0.1:5500/pagina%202/index.html";
-      return false;
+      // Criando um objeto com os dados do usuário
+      var usuario = {
+        email: email,
+        senha: senha
+      };
+
+      // Convertendo o objeto para uma string JSON
+      var usuarioJSON = JSON.stringify(usuario);
+
+      // Armazenando os dados do usuário no localStorage
+      localStorage.setItem('usuario', usuarioJSON);
+
+      alert("Cadastro realizado com sucesso! Por favor, faça o login");
+      
+      // Redirecionando para a página de destino após o cadastro
+      
+      
+      return false; // Impede o envio do formulário padrão
     }
 
-    // Evento para lidar com o clique no link "esqueceu a senha"
+    // Função para fazer login
+    function logar() {
+      var email = document.getElementById('emailLogin').value;
+      var senha = document.getElementById('senhaLogin').value;
+
+      // Carrega os dados do localStorage
+      var usuarioJSON = localStorage.getItem('usuario');
+      if (usuarioJSON) {
+        var usuario = JSON.parse(usuarioJSON);
+
+        // Verifica se o email e a senha correspondem aos do localStorage
+        if (usuario.email === email && usuario.senha === senha) {
+          document.getElementById('loginSuccessMessage').style.display = 'block'; 
+          setTimeout(function() {
+            window.location.href = "http://127.0.0.1:5502/pagina%202/index.html"; 
+          }, 2000);
+        } else {
+          alert('Usuário ou senha incorretos');
+        }
+      } else {
+        alert('Usuário não encontrado. Por favor, cadastre-se.');
+      }
+    }
+
+    // Função para enviar um código de recuperação de senha
     document.addEventListener('DOMContentLoaded', function() {
       const esqueceuSenha = document.getElementById('esqueceuSenha');
       esqueceuSenha.addEventListener('click', function(event) {
