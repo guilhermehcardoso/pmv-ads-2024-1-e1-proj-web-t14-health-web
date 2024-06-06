@@ -10,15 +10,15 @@ Responsável: Ryan.
 
 Usuário preenche os campos "Email” ou “Senha" e "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes
 
-![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/01c5142a-0099-4cbc-8f04-6fd6ffe28d2b)
+![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ca5b3ff4-4e1c-44a1-9861-7576256410de)
 
 Verificar se o usuário foi cadastrado.
 
-![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/247106fa-11d6-4b94-ad91-bd0617436acc)
+![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/885188d9-dc76-486b-984e-a739f3622db8)
 
 Informações armazenadas no LocalStorage após o usuário se cadastrar.
 
-![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/32491e9b-fe16-40e8-886b-d779d0e69696)
+![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ace29e65-21ea-4e47-9900-8d9f5a52b274)
 
 **CT-04: Verificar o login de usuários.**
 
@@ -26,15 +26,15 @@ Responsável: Guilherme.
 
 Usuário preenche os campos "Email" e "Senha" diferente do usuário já cadastrado.
 
-![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/1e48986a-33f9-40e0-8f63-a8b9797f1b07)
+![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/7bc8373c-c74a-4e24-b82b-c2cc8e7a8e91)
 
 Se as informações de usuário forem válidas, o login será bem sucedido.
 
-![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/613195b6-8e15-4879-87dd-acfa31194b6e)
+![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cc715b8a-4cb9-4624-babc-567b7bcaa201)
 
 Informações armazenadas no LocalStorage do usuário logado.
 
-![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/b7499bc3-a8f0-4a1d-96dc-30ced43848e2)
+![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cfde3643-7d7d-43c2-869c-e5664a1e5265)
 
 CT-05: Verificar a página de perfil de usuários cadastrados.
 
