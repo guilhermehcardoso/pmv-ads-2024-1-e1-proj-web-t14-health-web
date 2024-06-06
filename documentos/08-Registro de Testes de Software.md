@@ -59,6 +59,7 @@ Página vídeos:
 Caso clique em umas das playlist de alongue-se:
 ![fotopaylist](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/610372bc-8b88-4901-96d0-fd13a0860fc6)
 
+CT-09: Verificar a página de perfil de usuários cadastrados.
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
