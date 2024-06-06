@@ -50,8 +50,8 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 1. Abra um navegador de Internet e informe a seguinte URL: 
 2. Ao clicar em "Cadastrar", terá acesso a página de cadastro.
-3.Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
-4.Após o cadastro, terá acesso à tela de login.
+3. Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
+4. Após o cadastro, terá acesso à tela de login.
 5. Clique para a página de Meu Perfil e será direcionado.
 
 #### Responsável
