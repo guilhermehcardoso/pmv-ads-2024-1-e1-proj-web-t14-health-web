@@ -10,8 +10,10 @@ O acesso a tela de cadastro ser feito por opção de menu “Cadastre-se”. Com
 Exemplo da tela de cadastro:
 
 [Adicione imagem da funcionalidade/tela]
-Tela de Perfil (RF-005)
-Responsável: Vânia
+
+# Tela de Perfil (RF-005)
+
+Responsável: Guilherme
 
 O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -31,18 +33,26 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+● perfil.html
 
+● style.css
+
+● perfil.js
+
+● mobile-navbar.js
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+●perfil.html
 
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
-
+1. Abra um navegador de Internet e informe a seguinte URL: 
+2. Ao clicar em "Cadastrar", terá acesso a página de cadastro.
+3.Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
+4.Após o cadastro, terá acesso à tela de login.
+5. Clique para a página de Meu Perfil e será direcionado.
 
 #### Responsável
 
