@@ -1,5 +1,46 @@
 # Registro de Testes de Software
 
+
+
+
+
+
+
+CT-03: Verificar o cadastro de usuários.
+
+Responsável: Ryan.
+
+Usuário preenche os campos "Email” ou “Senha" e "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes
+![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/00edf6cb-e330-447d-afdb-ec30ebb96b4d)
+
+Verificar se o usuário foi cadastrado.
+![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/2103a9f2-53ba-4748-8d80-5c0747f664c7)
+
+Informações armazenadas no LocalStorage após o usuário se cadastrar.
+![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/839481e9-7c91-45b0-8a39-c87f2f07d693)
+
+
+CT-04: Verificar o login de usuários.
+Responsável: Guilherme.
+
+Usuário preenche os campos "Email" e "Senha" diferente do usuário já cadastrado.
+![usuario ou senha incorretos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/d6e650ab-bcb4-460e-8599-e9dfdaecb8ab)
+
+Se as informações de usuário forem válidas, o login será bem sucedido.
+![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/4b84ba27-c16f-4e6d-a6d0-2a9ebb065497)
+
+Informações armazenadas no LocalStorage do usuário logado.
+![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/2ca9fc37-07db-4223-becc-0163453194a0)
+
+
+
+
+
+
+
+
+
+
 CT-06: Verificar a tela inicial.
 
 Responsável: Gabriel.
