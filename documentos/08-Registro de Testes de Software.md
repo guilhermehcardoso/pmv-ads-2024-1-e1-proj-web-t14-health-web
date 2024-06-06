@@ -47,7 +47,7 @@ CT-07: Verificar a tela de receita  .
 
 Responsável: Gabriel.
 
-Mensagem de confirmação de cadastro do livro
+
 ![Captura de tela 2024-06-05 203116](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/65f56cfa-8058-4c52-b3cb-8ab7ad961936)
 
 CT- 08: Verificar página vídeos
