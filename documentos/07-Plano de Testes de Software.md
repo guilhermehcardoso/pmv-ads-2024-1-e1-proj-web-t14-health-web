@@ -23,7 +23,7 @@
 |:---|:---|
 | Requisitos Associados | RF-06 - O sistema deve permitir que os usuários recuperem suas senhas caso as esqueçam ou necessitem alterá-las por motivos de segurança. |
 | Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
-| Passos | 1. Acessar o site <br/> 2. Clicar no botão: "recuperar senha" <br/> 3. Clicar no campo "Email" e digitar o email do usuário <br/> 4. Digitar a nova senha no campo "Senha" <br/> 5.Digitar novamente a senha no campo "Senha" <br/> 6. Clicar no botão "Entrar" para salvar|
+| Passos | 1. Acessar o site <br/> 2. Clicar no botão: "recuperar senha" <br/> 3. Digitar nova senha <br/> 4. Digitar o email novamente em "E-mail" <br/> 5.Digitar novamente a senha no campo "Senha" <br/> 6. Clicar no botão "Entrar" para salvar|
 | Critérios de êxito | Uma nova senha é definida , o usuario será redirecionado ao seu Perfil |
 
 |Caso de Teste    | CT-05 -Perfil de Usuario  |
