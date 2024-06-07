@@ -5,9 +5,14 @@ body {
   background-position: center;
 }
 
+.logo {
+  text-align: center;
+  margin-top: 50px;
+}
+
 .container {
   width: 300px;
-  margin: -50px auto 100px auto; /* Margem superior negativa */
+  margin: 20px auto 100px auto;
   padding: 20px;
   background-color: #0d6efd;
   border-radius: 10px;
@@ -34,11 +39,6 @@ button {
   background-color: #3c7ee0;
   color: #120606;
   cursor: pointer;
-  width: calc(100% - 20px);
-  margin-top: 10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .hidden {
