@@ -136,10 +136,10 @@ Exemplo da tela de Vídeos:
 ### Requisito atendido
 RF 11 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
 ### Artefatos de funcionamento
-● videos.html
-● video.css
-● video.json
-● timer.js
+● videos.html <br>
+● video.css <br>
+● video.json <br>
+● timer.js <br>
 ### Estrutura de Dados
 ● videos.html
 ### Instruções de acesso
