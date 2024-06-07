@@ -125,6 +125,27 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
+# Página vídeos (RF-011)
+Responsável: Ryan Gustavo
+
+O acesso a tela de livros poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Vídeos:
+![pagvideo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/84f79b62-fc21-49c0-b86f-43b42c2099a4)
+
+### Requisito atendido
+RF 11 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
+### Artefatos de funcionamento
+videos.html
+video.css
+video.json
+timer.js
+### Estrutura de Dados
+videos.html
+### Instruções de acesso
+1- Abra um navegador com acesso a internet e acesse: 
+2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
+
 
 
 
