@@ -143,7 +143,7 @@ timer.js
 ### Estrutura de Dados
 videos.html
 ### Instruções de acesso
-1- Abra um navegador com acesso a internet e acesse: 
+1- Abra um navegador com acesso a internet e acesse: <br>
 2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
 
 
