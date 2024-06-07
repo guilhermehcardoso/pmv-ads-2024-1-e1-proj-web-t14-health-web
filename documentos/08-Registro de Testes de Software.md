@@ -36,10 +36,6 @@ Se as informações de usuário forem válidas, o login será bem sucedido.
 
 ![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cc715b8a-4cb9-4624-babc-567b7bcaa201)
 
-Informações armazenadas no LocalStorage do usuário logado.
-
-![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cfde3643-7d7d-43c2-869c-e5664a1e5265)
-
 Usuario preenche os campos de dados pessoais de forma correta.
 
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
