@@ -1,9 +1,5 @@
 # Registro de Testes de Software
 
-
-
-
-
 CT-03: Verificar o cadastro de usuários.
 
 Responsável: Ryan.
@@ -11,6 +7,14 @@ Responsável: Ryan.
 Usuário preenche os campos "Email” ou “Senha" e "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes
 
 ![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ca5b3ff4-4e1c-44a1-9861-7576256410de)
+
+Usuario clica em "esqueceu senha?"
+
+![esqueci a senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/605cb54b-ce1a-403d-be47-6228f1a4a6b0)
+
+Usuario cadastra senha nova
+
+![nova senha cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/35bda55b-a1a6-41f7-ac61-b8e2dc3183c3)
 
 Verificar se o usuário foi cadastrado.
 
