@@ -54,7 +54,7 @@ Artefatos da funcionalidade cadastro/login
 ●cadastre-se.html
 
 ●cadastre-se.css
-●script.js
+●script.js 
 
 ● login.html
 
@@ -136,12 +136,12 @@ Exemplo da tela de Vídeos:
 ### Requisito atendido
 RF 11 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
 ### Artefatos de funcionamento
-videos.html
-video.css
-video.json
-timer.js
+● videos.html
+● video.css
+● video.json
+● timer.js
 ### Estrutura de Dados
-videos.html
+● videos.html
 ### Instruções de acesso
 1- Abra um navegador com acesso a internet e acesse: <br>
 2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
