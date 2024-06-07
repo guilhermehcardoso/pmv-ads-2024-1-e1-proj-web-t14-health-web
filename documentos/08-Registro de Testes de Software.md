@@ -22,7 +22,7 @@ Verificar se o usuário foi cadastrado.
 
 Informações armazenadas no LocalStorage após o usuário se cadastrar.
 
-![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ace29e65-21ea-4e47-9900-8d9f5a52b274)
+![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/5e97d4cc-1343-4ed1-9fe5-3503fdfbfde9)
 
 CT-04: Verificar o login de usuários.
 
