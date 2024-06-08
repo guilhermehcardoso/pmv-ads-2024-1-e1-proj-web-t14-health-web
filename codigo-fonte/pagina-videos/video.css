@@ -1,3 +1,5 @@
+
+
 .video-principal {
     width: 700px;
     height: 450px;
@@ -53,8 +55,32 @@ main > h2 , h3 {
     transform: scale(1.1);
 }
 
-#cronometro {
-    text-align: center;
-    font-size: 4em;
+#formulario-sugestao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Estilo do rótulo */
+  label {
+    margin-bottom: 5px;
+  }
+  
+  /* Estilo do campo de entrada */
+  input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  /* Estilo do botão de envio */
+  button[type="submit"] {
+    border-radius: 10px;
     margin-top: 10px;
-}
+    padding: 10px 20px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
