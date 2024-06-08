@@ -70,8 +70,11 @@ Responsável: Gabriel.
 CT- 08: Verificar página vídeos <br>
 Responsável: Alexsander  <br>
 Página vídeos:
+![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/f3ee4c05-050a-43a7-966e-9d0ae27e1d09) <br>
+Caso queira enviar as sugestões:
+![aceitamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/3cce2453-0c1b-4ccb-914b-589a784bc1bb)
 
-![pagvideo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/6eef3138-86c1-43e8-86e6-c277ca5c9f3d)
+
 
 Caso clique em umas das playlist de alongue-se:
 ![fotopaylist](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/610372bc-8b88-4901-96d0-fd13a0860fc6)
