@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const chart2 = createPieChart('chart2', ['Peso Perdido', 'Peso Estável'], [50, 50]);
     const chart3 = createPieChart('chart3', ['Horas Dormidas', 'Horas Não Dormidas'], [70, 30]);
     const chart4 = createPieChart('chart4', ['Consumo Baixo', 'Consumo Médio', 'Consumo Alto'], [20, 30, 50]);
-    const chart5 = createPieChart('chart5', ['Manhã', 'Tarde', 'Noite'], [50, 30, 20]);
+    const chart5 = createPieChart('chart5', ['Humor Bom', 'Humor Médio', 'Humor Ruim'], [50, 30, 20]);
     const chart6 = createPieChart('chart6', ['Corrida Curta', 'Corrida Média', 'Corrida Longa'], [30, 50, 20]);
 
     document.getElementById('file-input').addEventListener('change', function(event) {
@@ -43,3 +43,4 @@ function createPieChart(chartId, labels, data) {
         }
     });
 }
+
