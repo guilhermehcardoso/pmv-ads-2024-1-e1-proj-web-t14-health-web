@@ -169,8 +169,8 @@
                 <img src="https://i.ibb.co/jrFdkW1/337052467-74efb6b9-07bd-468a-a642-7d114b2a2223.png" alt="Logo" border="0" style="height: 50px;">
             </a>
             <nav class="header-links">
-                <a href="#">Perfil</a>
                 <a href="#">Início</a>
+                <a href="#">Perfil</a>
                 <a href="#">Receitas</a>
                 <a href="#">Vídeos</a>
                 <a href="#">Sair</a>
@@ -234,10 +234,10 @@
                 <div class="chart-title">Estabilidade de Humor</div>
                 <canvas id="chart5"></canvas>
                 <div class="edit-section">
-                    <input type="number" id="manha" placeholder="Manhã">
-                    <input type="number" id="tarde" placeholder="Tarde">
-                    <input type="number" id="noite" placeholder="Noite">
-                    <button onclick="updateChart('chart5', [parseInt(document.getElementById('manha').value), parseInt(document.getElementById('tarde').value), parseInt(document.getElementById('noite').value)])">Atualizar</button>
+                    <input type="number" id="humor-bom" placeholder="Humor Bom">
+                    <input type="number" id="humor-medio" placeholder="Humor Médio">
+                    <input type="number" id="humor-ruim" placeholder="Humor Ruim">
+                    <button onclick="updateChart('chart5', [parseInt(document.getElementById('humor-bom').value), parseInt(document.getElementById('humor-medio').value), parseInt(document.getElementById('humor-ruim').value)])">Atualizar</button>
                 </div>
             </div>
             <div class="chart-container">
@@ -263,7 +263,7 @@
             const chart2 = createPieChart('chart2', ['Peso Perdido', 'Peso Estável'], [50, 50]);
             const chart3 = createPieChart('chart3', ['Horas Dormidas', 'Horas Não Dormidas'], [70, 30]);
             const chart4 = createPieChart('chart4', ['Consumo Baixo', 'Consumo Médio', 'Consumo Alto'], [20, 30, 50]);
-            const chart5 = createPieChart('chart5', ['Manhã', 'Tarde', 'Noite'], [50, 30, 20]);
+            const chart5 = createPieChart('chart5', ['Humor Bom', 'Humor Médio', 'Humor Ruim'], [50, 30, 20]);
             const chart6 = createPieChart('chart6', ['Corrida Curta', 'Corrida Média', 'Corrida Longa'], [30, 50, 20]);
 
             document.getElementById('file-input').addEventListener('change', function(event) {
