@@ -131,10 +131,11 @@ Responsável: Ryan Gustavo
 O acesso a tela de livros poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Vídeos:
-![pagvideo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/84f79b62-fc21-49c0-b86f-43b42c2099a4)
+![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/4798a445-e69c-4425-82d1-b29640969b02)
+
 
 ### Requisito atendido
-RF 11 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
+RF-011 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
 ### Artefatos de funcionamento
 ● videos.html <br>
 ● video.css <br>
