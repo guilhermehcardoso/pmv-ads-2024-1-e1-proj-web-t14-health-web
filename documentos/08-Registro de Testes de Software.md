@@ -24,7 +24,7 @@ Informações armazenadas no LocalStorage após o usuário se cadastrar.
 
 ![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/5e97d4cc-1343-4ed1-9fe5-3503fdfbfde9)
 
-CT-04: Verificar o login de usuários.
+CT-03: Verificar o login de usuários.
 
 Responsável: Guilherme.
 
@@ -41,7 +41,7 @@ Usuario preenche os campos de dados pessoais de forma correta.
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
 
 
-CT-05: Verificar a página de perfil de usuários cadastrados.
+CT-04: Verificar a página de perfil de usuários cadastrados.
 
 Responsável: Alexsander 
 
@@ -54,7 +54,7 @@ Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar.
 ![pp3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/7d6daadc-9f98-41e4-9009-83aa5042b2b5)
 
 
-CT-06: Verificar a tela inicial.
+CT-05: Verificar a tela inicial.
 
 Responsável:Ryan.
 ![Captura de tela 2024-06-08 201558](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/7a28fba2-1662-484b-9dd8-822070f9e380)
