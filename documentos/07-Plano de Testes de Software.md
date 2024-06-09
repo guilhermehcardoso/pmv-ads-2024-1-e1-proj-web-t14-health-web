@@ -12,6 +12,7 @@
 | Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
 | Passos | 1. Acessar o site <br/>2. Clicar no botão "Cadastre-se" <br/> 3. Inserir todos os dados requisitados para cadastro <br/> 4. Clicar no botão "Salvar" |
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-03 - Login |
 |:---|:---|
@@ -19,6 +20,7 @@
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
 | Passos | 1. Acessar o site <br/>2. Clicar no campo e-mail  e inserir o e-mail cadastrado <br/>3. Clicar no campo  inserir a senha cadastrada <br/>4. Clicar no botão "Entrar"|
 | Critérios de êxito | O usuario é |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-04 - Recuperar ou alterar a senha |
 |:---|:---|
@@ -26,6 +28,7 @@
 | Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
 | Passos | 1. Acessar o site <br/> 2. Clicar no botão: "recuperar senha" <br/> 3. Digitar nova senha <br/> 4. Digitar o email novamente em "E-mail" <br/> 5.Digitar novamente a senha no campo "Senha" <br/> 6. Clicar no botão "Entrar" para salvar|
 | Critérios de êxito | Uma nova senha é definida , o usuario será redirecionado ao seu Perfil |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-05 -Perfil de Usuario  |
 |:---|:---|
@@ -33,6 +36,7 @@
 | Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-06 - Receita do dia  | 
 |:---|:---|
@@ -40,6 +44,7 @@
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito | pagina de exercicio  |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-07 - Página Vídeos |
 |:---|:---|
@@ -47,5 +52,6 @@
 | Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao superior direito clicar em "Vídeos" <br/> 3. Visualizar as informações referentes aos vídeos disponíveis na página.
 | Critérios de êxito | Direcionamento a página de vídeos |
+| Responsável |Nome:   |
 
 
