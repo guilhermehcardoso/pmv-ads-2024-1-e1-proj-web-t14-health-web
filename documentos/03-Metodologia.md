@@ -8,10 +8,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-•	Desta forma, a equipe está organizada da seguinte maneira:
-•	Scrum Master: Gabriel F. Vieira
-•	Product Owner: Paola Beltrão Santos  
-•	Equipe de Desenvolvimento: Alexsander Lima De Andrade Vieira, Artur Coelho Duarte e Ryan Gustavo Torres
+•	Desta forma, a equipe está organizada da seguinte maneira: <br>
+•	Scrum Master: Gabriel F. Vieira <br>
+•	Product Owner: Paola Beltrão Santos <br>  
+•	Equipe de Desenvolvimento: Alexsander Lima De Andrade Vieira, Artur Coelho Duarte e Ryan Gustavo Torres <br>
 •	Equipe de Design: Gabriel F vieira e Guilherme Henrique Cardoso Souza
 
 
