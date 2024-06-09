@@ -46,7 +46,7 @@
 | Critérios de êxito | pagina de exercicio  |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-07 - Verificar página vídeos |
+|Caso de Teste    | CT-08 - Verificar página vídeos |
 |:---|:---|
 | Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino  |
 | Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
