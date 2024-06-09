@@ -6,7 +6,7 @@
 | Critérios de êxito |o cliente é atraido a pagina de cadastro   |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-03 - Verificar o cadastro de usuários. |
+|Caso de Teste    | CT-02 - Verificar o cadastro de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-02 O usuário deve cadastrar o e-mail e senha para criar uma conta através da pagina crie sua conta |
 | Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
