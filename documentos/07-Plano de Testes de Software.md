@@ -4,6 +4,7 @@
 | Objetivo do Teste | Atrair o Cliente  |
 | Passos | 1. Acessar o site <br/> 2. Clicar no botao calcular quantidade recomendada  <br/> 3. Calcular peso recomendado no botão <br/> 5. Cliclar no connect com a sua Saude Agora  <br/>6. Pagina busca por academia mais proxima de você <br/> 
 | Critérios de êxito |o cliente é atraido a pagina de cadastro   |
+| Responsável |Nome:   |
 
 |Caso de Teste    | CT-02 - Cadastro de credenciais |
 |:---|:---|
