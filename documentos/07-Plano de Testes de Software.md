@@ -9,7 +9,7 @@
 |:---|:---|
 | Requisitos Associados | RF-02 O usuário deve cadastrar o e-mail e senha para criar uma conta através da pagina crie sua conta |
 | Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
-| Passos | 1. Acessar o site <br/>2. Clicar no botão "Se cadastrar" <br/> 3. Inserir todos os dados requisitados para cadastro <br/> 4. Clicar no botão "Salvar" |
+| Passos | 1. Acessar o site <br/>2. Clicar no botão "Cadastre-se" <br/> 3. Inserir todos os dados requisitados para cadastro <br/> 4. Clicar no botão "Salvar" |
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
 
 |Caso de Teste    | CT-03 - Login |
