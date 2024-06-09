@@ -6,7 +6,7 @@
 | Critérios de êxito |o cliente é atraido a pagina de cadastro   |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-02 - Cadastro de credenciais |
+|Caso de Teste    | CT-03 - Verificar o cadastro de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-02 O usuário deve cadastrar o e-mail e senha para criar uma conta através da pagina crie sua conta |
 | Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
@@ -14,7 +14,7 @@
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-03 - Login |
+|Caso de Teste    | CT-03 - Verificar o login de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-01	Cada usuário deve fazer o login na página através de um e-mail e uma senha |
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
