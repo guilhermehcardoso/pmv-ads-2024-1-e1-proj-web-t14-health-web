@@ -1,5 +1,3 @@
-
-
 .video-principal {
     width: 700px;
     height: 450px;
@@ -9,13 +7,11 @@
     overflow: hidden;
     
 }
-
 .video-principal iframe {
     width: 100%;
     height: 100%;
     border: none;
 }
-
 main {
     font-family: "Montserrat", sans-serif;
 }
@@ -62,19 +58,17 @@ main > h2 , h3 {
     margin: 20px;
   }
   
-  /* Estilo do rótulo */
+  
   label {
     margin-bottom: 5px;
   }
   
-  /* Estilo do campo de entrada */
+
   input[type="text"] {
     padding: 10px;
     border: 1px solid #ccc;
     width: 300px;
   }
-  
-  /* Estilo do botão de envio */
   button[type="submit"] {
     border-radius: 10px;
     margin-top: 10px;
