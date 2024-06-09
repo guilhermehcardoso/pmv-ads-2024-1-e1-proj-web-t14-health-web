@@ -56,16 +56,18 @@ Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar.
 
 CT-06: Verificar a tela inicial.
 
-Responsável: Gabriel.
+Responsável:Ryan.
+![Captura de tela 2024-06-08 201558](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/7a28fba2-1662-484b-9dd8-822070f9e380)
 
-![Captura de tela 2024-06-05 203032](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/b845244f-3118-45ea-8758-1735c198c5ec)
+
 
 CT-07: Verificar a tela de receita  .
 
-Responsável: Gabriel.
+Responsável: Ryan.
+![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/75d74780-7cd7-446b-b134-98efa650581c)
+![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/4c00ea38-bc71-45ed-975f-9d45b066d98a)
 
 
-![Captura de tela 2024-06-05 203116](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/65f56cfa-8058-4c52-b3cb-8ab7ad961936)
 
 CT- 08: Verificar página vídeos <br>
 Responsável: Alexsander  <br>
