@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-CT-03: Verificar o cadastro de usuários.
+CT-02: Verificar o cadastro de usuários.
 
 Responsável: Ryan.
 
