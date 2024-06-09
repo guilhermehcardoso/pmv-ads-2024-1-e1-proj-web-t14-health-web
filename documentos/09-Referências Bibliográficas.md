@@ -1,17 +1,6 @@
 
 # Referências Bibliográficas
 
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
-
-
-
-# Referências Bibliográficas Alexsander lima
-
 
 **JSON JavaScript:**
 - W3Schools. JSON JavaScript. Disponível em: [W3Schools - JSON JavaScript](https://www.w3schools.com/js/js_json_intro.asp)
