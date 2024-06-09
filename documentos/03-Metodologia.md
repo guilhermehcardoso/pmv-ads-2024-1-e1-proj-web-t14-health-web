@@ -36,7 +36,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             |[ http://....   ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web)                         |
 | Documentos do projeto               | GitHub                             | [http://....](https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1529418_sga_pucminas_br/ET6SwasiA-tPve9RwUgSHQQBqzLcYwDb4UXS0WT6zJLT0w?e=ivwdSv)                            |
-| Projeto de Interface                | Canva                            |                          |
+| Projeto de Interface                | Canva                            | [http://....](https://www.canva.com/design/DAGCESZH_Tc/4uBRQscaktcHQy29QiUc3Q/view?mode=prototype) |
 | Gerenciamento do Projeto            | GitHub Projects                    |                            |
 | Hospedagem                          | GitHub Pages                       |                            |
 
