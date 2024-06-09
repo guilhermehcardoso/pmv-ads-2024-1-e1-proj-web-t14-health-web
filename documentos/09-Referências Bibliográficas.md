@@ -41,8 +41,4 @@
 **Visual Code:**
 - Visual Studio Code Documentation. Disponível em: [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 
-**Cursos:**
-- Curso em Vídeo - Curso de Algoritmo. Disponível em: [Curso em Vídeo - Curso de Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
-- Curso em Vídeo - Curso de HTML5. Disponível em: [Curso em Vídeo - Curso de HTML5](https://www.cursoemvideo.com/curso/html5/)
-- Curso em Vídeo - Curso de JavaScript. Disponível em: [Curso em Vídeo - Curso de JavaScript](https://www.cursoemvideo.com/curso/javascript/)
-- Curso em Vídeo - Curso de HTML5 e CSS3 Módulo 1. Disponível em: [Curso em Vídeo - Curso de HTML5 e CSS3 Módulo 1](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
+
