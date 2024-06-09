@@ -23,11 +23,9 @@ Para a criação do logotipo da aplicação, foi utilizado o azul.
 ![337052467-74efb6b9-07bd-468a-a642-7d114b2a2223](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/96bde32d-1ef1-4418-9171-8a50085ba09a)
 
 
-[Apresente a estrutura padrão da sua aplicação.]
+# [Sem Página Inicial]
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+# Tela de visualização do perfil.
+Exibe informações sobre o perfil do usuário. <br>
+![WhatsApp Image 2024-06-08 at 20 49 16](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/2e550d38-5c17-49f9-963f-4db913c04889) <br>
+Figura 2 - Página de perfil.
