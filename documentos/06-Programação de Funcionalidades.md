@@ -4,7 +4,7 @@
 
 #  Tela de login e cadastro (RF-01)
 
-Responsável: Alexsander
+Responsável: Alexsander Lima
 
 O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Login/Cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
