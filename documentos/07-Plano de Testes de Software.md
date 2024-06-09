@@ -14,7 +14,7 @@
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
 | Responsável |Nome: Alexsander lima  |
 
-|Caso de Teste    | CT-03 - Recuperar ou alterar a senha |
+|Caso de Teste    | CT-02 - Recuperar ou alterar a senha |
 |:---|:---|
 | Requisitos Associados | RF-06 - O sistema deve permitir que os usuários recuperem suas senhas caso as esqueçam ou necessitem alterá-las por motivos de segurança. |
 | Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
@@ -22,7 +22,7 @@
 | Critérios de êxito | Uma nova senha é definida |
 | Responsável |Nome: Alexsander lima  |
 
-|Caso de Teste    | CT-04 - Verificar o login de usuários. |
+|Caso de Teste    | CT-02 - Verificar o login de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-01	Cada usuário deve fazer o login na página através de um e-mail e uma senha |
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
@@ -30,7 +30,7 @@
 | Critérios de êxito | O usuario é redirecionado para pagina de dados pessoais |
 | Responsável |Nome: Alexsnder lima   |
 
-|Caso de Teste    | CT-05 -Perfil de Usuario  |
+|Caso de Teste    | CT-03 -Perfil de Usuario  |
 |:---|:---|
 | Requisitos Associados | RF-05 - Imagem ,descrição, planejamento do usuario  |
 | Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
@@ -38,7 +38,7 @@
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-06 - Receita do dia  | 
+|Caso de Teste    | CT-04- Receita do dia  | 
 |:---|:---|
 | Requisitos Associados | RF-05 - frase motivacional,imagem e uma receita fitness   |
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
@@ -46,7 +46,7 @@
 | Critérios de êxito | pagina de exercicio  |
 | Responsável |Nome:   |
 
-|Caso de Teste    | CT-07 - Verificar página vídeos |
+|Caso de Teste    | CT-05 - Verificar página vídeos |
 |:---|:---|
 | Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino  |
 | Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
