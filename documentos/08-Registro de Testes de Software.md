@@ -71,10 +71,15 @@ Responsável: Ryan.
 
 
 CT- 08: Verificar página vídeos <br>
+
 Responsável: Alexsander  <br>
+
 Página vídeos:
+
 ![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/f3ee4c05-050a-43a7-966e-9d0ae27e1d09) <br>
+
 Caso queira enviar as sugestões:
+
 ![aceitamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/3cce2453-0c1b-4ccb-914b-589a784bc1bb)
 
 
