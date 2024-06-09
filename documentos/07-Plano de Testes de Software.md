@@ -12,23 +12,23 @@
 | Objetivo do Teste | Verificar se a função de cadastro do usuário está operando corretamente.|
 | Passos | 1. Acessar o site <br/>2. Clicar no botão "Cadastre-se" <br/> 3. Inserir todos os dados requisitados para cadastro <br/> 4. Clicar no botão "Salvar" |
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
-| Responsável |Nome:   |
+| Responsável |Nome: Alexsander lima  |
 
 |Caso de Teste    | CT-03 - Recuperar ou alterar a senha |
 |:---|:---|
 | Requisitos Associados | RF-06 - O sistema deve permitir que os usuários recuperem suas senhas caso as esqueçam ou necessitem alterá-las por motivos de segurança. |
 | Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
 | Passos | 1. Acessar o site <br/> 2. Clicar no botão: "recuperar senha" <br/> 3. Digitar nova senha <br/> 4. Digitar o email novamente em "E-mail" <br/> 5.Digitar novamente a senha no campo "Senha" <br/> 6. Clicar no botão "Entrar" para salvar|
-| Critérios de êxito | Uma nova senha é definida , o usuario será redirecionado ao seu Perfil |
-| Responsável |Nome:   |
+| Critérios de êxito | Uma nova senha é definida |
+| Responsável |Nome: Alexsander lima  |
 
 |Caso de Teste    | CT-04 - Verificar o login de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-01	Cada usuário deve fazer o login na página através de um e-mail e uma senha |
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
 | Passos | 1. Acessar o site <br/>2. Clicar no campo e-mail  e inserir o e-mail cadastrado <br/>3. Clicar no campo  inserir a senha cadastrada <br/>4. Clicar no botão "Entrar"|
-| Critérios de êxito | O usuario é |
-| Responsável |Nome:   |
+| Critérios de êxito | O usuario é redirecionado para pagina de dados pessoais |
+| Responsável |Nome: Alexsnder lima   |
 
 |Caso de Teste    | CT-05 -Perfil de Usuario  |
 |:---|:---|
