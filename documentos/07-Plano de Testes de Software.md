@@ -33,7 +33,7 @@
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
 
-|Caso de Teste    | CT-06 - Receita do dia  |
+|Caso de Teste    | CT-06 - Receita do dia  | Paola Beltrao|
 |:---|:---|
 | Requisitos Associados | RF-05 - frase motivacional,imagem e uma receita fitness   |
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
