@@ -120,10 +120,56 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
+# Página de Receitas (RF-03)
+Responsável: Paola
+
+O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Receitas:
+
+![pag1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/2807515a-eaaa-4fbd-bbcf-654d2a85f0de)
+
+### Requisito atendido
+RF-03	A aplicação web deve ter informações sobre nutrição, exercícios e autocuidado
+### Artefatos de funcionamento
+● videos.html <br>
+● video.css <br>
+● video.json <br>
+● timer.js <br>
+### Estrutura de Dados
+● videos.html
+### Instruções de acesso
+1- Abra um navegador com acesso a internet e acesse: <br>
+2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
+
+# Página de Receitas (RF-04)
+Responsável: Paola
+
+O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Receitas:
+![pag2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/c372cbd4-8274-4d13-ac36-3c915d31cfd9) <br>
+![pag3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/670ec493-9a60-4302-908a-d3f158abc9f6)
+
+### Requisito atendido
+A aplicação web deve disponibilizar um planejador de dieta personalizado, levando em consideração as preferencias e meta do usuário.
+### Artefatos de funcionamento
+● videos.html <br>
+● video.css <br>
+● video.json <br>
+● timer.js <br>
+### Estrutura de Dados
+● videos.html
+### Instruções de acesso
+1- Abra um navegador com acesso a internet e acesse: <br>
+2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
+
+
+
 # Página vídeos (RF-011)
 Responsável: Ryan Gustavo
 
-O acesso a tela de livros poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de vídeos poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Vídeos:
 ![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/4798a445-e69c-4425-82d1-b29640969b02)
