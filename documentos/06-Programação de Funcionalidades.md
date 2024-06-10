@@ -52,21 +52,26 @@ Exemplo da tela de cadastro:
 
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/da339847-6e0d-4ec6-aea7-ba3992735a34)
 
+RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
 
-#  Tela de login e cadastro (RF-01)
+Artefatos da funcionalidade cadastro/login ●cadastre-se.html
 
-Responsável: Alexsander Lima
+●cadastre-se.css ●script.js
 
-O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Login/Cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+● login.html
 
-Exemplo da tela de cadastro:
+● style-login.css
 
-Requisitos atendidos
-RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar
+● script-login.js
 
-#### Responsável
+Estrutura de Dados ●(login.html) ●(login.css)
 
-[Alexsander lima de andrade vieira]
+Instruções de acesso
+Abra um navegador de Internet e informe a seguinte URL:
+Ao clicar em "Login/Cadastro", terá acesso a página de Login e cadastro.
+Crie um email e uma senha, insira-os e em seguida clique em "Entrar".
+Após o entrar, terá acesso à tela de cadastro de informações pessoais.
+Cadastre suas informações e sera direcionado a pagina "perfil" .
 
 # Tela de Perfil (RF-005)
 
