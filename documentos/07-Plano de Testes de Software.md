@@ -4,7 +4,7 @@
 | Objetivo do Teste | Atrair o Cliente  |
 | Passos | 1. Acessar o site <br/> 2. Clicar no botao calcular quantidade recomendada  <br/> 3. Calcular peso recomendado no botão <br/> 5. Cliclar no connect com a sua Saude Agora  <br/>6. Pagina busca por academia mais proxima de você <br/> 
 | Critérios de êxito |o cliente é atraido a pagina de cadastro   |
-| Responsável |Nome:   |
+| Responsável |Nome: Gabriel   |
 
 |Caso de Teste    | CT-02 - Verificar o cadastro de usuários. |
 |:---|:---|
@@ -28,7 +28,7 @@
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
 | Passos | 1. Acessar o site <br/>2. Clicar no campo e-mail  e inserir o e-mail cadastrado <br/>3. Clicar no campo  inserir a senha cadastrada <br/>4. Clicar no botão "Entrar"|
 | Critérios de êxito | O usuario é redirecionado para pagina de dados pessoais |
-| Responsável |Nome: Alexsnder lima   |
+| Responsável |Nome: Alexsander lima   |
 
 |Caso de Teste    | CT-03 -Perfil de Usuario  |
 |:---|:---|
@@ -36,7 +36,7 @@
 | Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
-| Responsável |Nome:   |
+| Responsável |Nome: Guilherme   |
 
 |Caso de Teste    | CT-04- Receita do dia  | 
 |:---|:---|
@@ -44,7 +44,7 @@
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao lado esquerdo na coluna Temas clicar no botão "Aguardando o lin. gabriel ficar prnto " <br/> 3. Clicar no campo "Digite o novo tema" <br/> 4. Digitar o nome escolhido <br/> 5. Clicar no botão "ok" para salvar|
 | Critérios de êxito | pagina de exercicio  |
-| Responsável |Nome:   |
+| Responsável |Nome: Paola  |
 
 |Caso de Teste    | CT-05 - Verificar página vídeos |
 |:---|:---|
@@ -52,6 +52,6 @@
 | Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
 | Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao superior direito clicar em "Vídeos" <br/> 3. Visualizar as informações referentes aos vídeos disponíveis na página.
 | Critérios de êxito | Direcionamento a página de vídeos |
-| Responsável |Nome:   |
+| Responsável |Nome: Ryan  |
 
 
