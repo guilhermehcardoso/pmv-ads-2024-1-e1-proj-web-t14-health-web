@@ -1,23 +1,24 @@
 # Registro de Testes de Software
 
-CT-02: Verificar o Cadastro de usuários 
+CT-02: Verificar o Cadastro de usuários.
 
 Responsável: Guilherme. 
 
-Usuário preenche os campos "Email” ou “Senha" e "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes.
+Usuário preenche os campos "Email” ou “Senha", "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes.
 
 ![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ca5b3ff4-4e1c-44a1-9861-7576256410de)
 
-Recuperar ou alterar a senha <br>
-Usuario clica em "esqueceu senha?"
+Recuperar ou alterar a senha.
+
+Usuário clica em "esqueceu senha".
 
 ![esqueci a senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/605cb54b-ce1a-403d-be47-6228f1a4a6b0)
 
-Usuario Cadastra senha nova
+Usuário cadastra nova senha.
 
 ![nova senha cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/35bda55b-a1a6-41f7-ac61-b8e2dc3183c3)
 
-ctVerificar se o usuário foi cadastrado.
+Verificar se o usuário foi cadastrado.
 
 ![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/885188d9-dc76-486b-984e-a739f3622db8)
 
@@ -57,13 +58,12 @@ Verificar a Receita.
 
 ![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/94300809-71b2-4e3a-a7cd-885f3d81fc67)
 
-Verificar o funcionamento no botão.
-botão next vai para a proxima receita e o Previos volta para a receita anterior
+Verificar o funcionamento no botão "Next", que direciona para a próxima receita e o botão "Previos", que retorna para a receita anterior.
 
 ![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/076368fe-21d6-46f3-8adf-1fd6bbb6349d)
 
 
-CT-05: Verificar página vídeos <br>
+CT-05: Verificar página vídeos. <br>
 
 Responsável: Paola  <br>
 
@@ -79,7 +79,7 @@ Caso queira enviar as sugestões:
 Caso clique em umas das playlist de alongue-se:
 ![fotopaylist](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/610372bc-8b88-4901-96d0-fd13a0860fc6)
 
-CT-09: Verificar a página de perfil de usuários cadastrados.
+
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
