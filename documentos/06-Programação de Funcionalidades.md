@@ -121,51 +121,47 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
-# Página de Receitas (RF-03)
+# Página de Receitas (RF-0)
 Responsável: Paola
 
-O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. 
+
+As estruturas de dados foram baseadas em html, CSS e JS.
 
 Exemplo da tela de Receitas:
 
 ![pag1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/2807515a-eaaa-4fbd-bbcf-654d2a85f0de)
 
 ### Requisito atendido
-RF-03	A aplicação web deve ter informações sobre nutrição, exercícios e autocuidado
-### Artefatos de funcionamento
-● videos.html <br>
-● video.css <br>
-● video.json <br>
-● timer.js <br>
-### Estrutura de Dados
-● videos.html
-### Instruções de acesso
-1- Abra um navegador com acesso a internet e acesse: <br>
-2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
+html 
+js
+json
+
+Instruções de acesso
+1. na pagina inicial aparece o whatsapp da nutricionita e o ebook em seguida.
+2.descendo a aba aparece a receita do dia 
 
 # Página de Receitas (RF-04)
+
 Responsável: Paola
 
-O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. As estruturas de dados foram baseadas em HTML, CSS e JS json .
 
 Exemplo da tela de Receitas:
-![pag2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/c372cbd4-8274-4d13-ac36-3c915d31cfd9) <br>
-![pag3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/670ec493-9a60-4302-908a-d3f158abc9f6)
+![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/4fdb568c-2d3f-4844-92f0-45a321a2d6a8)
+![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/f4a9323e-261c-4b5c-b0d2-a2a2daae8d1c)
 
-### Requisito atendido
-A aplicação web deve disponibilizar um planejador de dieta personalizado, levando em consideração as preferencias e meta do usuário.
-### Artefatos de funcionamento
-● videos.html <br>
-● video.css <br>
-● video.json <br>
-● timer.js <br>
-### Estrutura de Dados
-● videos.html
+Receita 
+
+Sintaze do Htlm
+json
+js
+css
+ts
+
 ### Instruções de acesso
-1- Abra um navegador com acesso a internet e acesse: <br>
-2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
-
-
+1. em receita aparece o botão next (proximo) e Previous (anterior).
+2 - Clicando o em next o usuario vai para a proxima receita e previons anterior .
 
 # Página vídeos (RF-011)
 Responsável: Ryan Gustavo
