@@ -65,7 +65,7 @@ Verificar o funcionamento no botão "Next", que direciona para a próxima receit
 
 CT-05: Verificar página vídeos. <br>
 
-Responsável: Paola  <br>
+Responsável: Paola.  <br>
 
 Página vídeos:
 
