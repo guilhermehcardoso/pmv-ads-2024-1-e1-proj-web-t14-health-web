@@ -38,7 +38,7 @@ Estrutura de Dados
 2. Ao clicar em "Login/Cadastro", terá acesso a página de Login e cadastro.
 3. Crie um email e uma senha, insira-os e em seguida clique em "Entrar".
 4. Após o entrar, terá acesso à tela de cadastro de informações pessoais.
-5. Cadastre suas informações e sera direcionado a pagina "perfil" .
+5. Cadastre suas informações e sera direcionado a pagina "Dados pessoais" .
 
 #  Tela de Dados pessoais (RF-01)
 
