@@ -35,9 +35,9 @@ Usuario preenche os campos de dados pessoais de forma correta.
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
 
 
-CT-03: Perfil de Usuario
+CT-03: Perfil de Usuario.
 
-Responsável: Alexsander 
+Responsável: Alexsander.
 
 ![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/ad233484-341f-4bcc-8ca9-1cceeb0fedd3)
 
