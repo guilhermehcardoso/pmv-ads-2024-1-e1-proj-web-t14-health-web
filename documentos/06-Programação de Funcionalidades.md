@@ -88,9 +88,13 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 #### Artefatos da funcionalidade
 
 ● perfil.html
+
 ● style.css
+
 ● perfil.js
+
 ● mobile-navbar.js
+
 ● video.json
 
 #### Estrutura de Dados
