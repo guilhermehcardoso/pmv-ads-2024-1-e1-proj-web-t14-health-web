@@ -19,19 +19,15 @@ RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se log
 RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
 
 Artefatos da funcionalidade cadastro/login
-●cadastre-se.html
+●index.html
 
-●cadastre-se.css
+●index.css
+
 ●script.js 
-
-● login.html
-
-● style-login.css
-
-● script-login.js
 
 Estrutura de Dados
 ●(login.html)
+
 ●(login.css)
 
 #### Instruções de acesso
@@ -42,36 +38,32 @@ Estrutura de Dados
 4. Após o entrar, terá acesso à tela de cadastro de informações pessoais.
 5. Cadastre suas informações e sera direcionado a pagina "perfil" .
 
-#  Tela de login e cadastro (RF-01)
+#  Tela de Dados pessoais (RF-01)
 
 Responsável: Alexsander Lima
 
-O acesso a tela de login e cadastro poderá ser feito ao clicar na opção  “Login/Cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de dados pessoais acontece após ser efetuado o login. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de cadastro:
 
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/da339847-6e0d-4ec6-aea7-ba3992735a34)
 
-RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
+RF-001: A aplicação web deve permitir ao usuário cadastrar seus dados pessoais.
 
-Artefatos da funcionalidade cadastro/login ●cadastre-se.html
+Artefatos da funcionalidade Dados pessoais
 
-●cadastre-se.css ●script.js
+●index.html-paglog
 
-● login.html
+●index.css-pag2
 
-● style-login.css
-
-● script-login.js
+●script.js-pag2
 
 Estrutura de Dados ●(login.html) ●(login.css)
 
 Instruções de acesso
-Abra um navegador de Internet e informe a seguinte URL:
-Ao clicar em "Login/Cadastro", terá acesso a página de Login e cadastro.
-Crie um email e uma senha, insira-os e em seguida clique em "Entrar".
-Após o entrar, terá acesso à tela de cadastro de informações pessoais.
-Cadastre suas informações e sera direcionado a pagina "perfil" .
+Apos ter efetuado o login na pagina de Login/cadastro sera direcionado para a pagina de dados pessoais:
+Cadastre suas informações e clique em "cadastrar".
+Após o cadastrar, terá acesso à tela inicial.
 
 # Tela de Perfil (RF-005)
 
