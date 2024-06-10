@@ -19,6 +19,7 @@ RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se log
 RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
 
 Artefatos da funcionalidade cadastro/login
+
 ●index.html
 
 ●index.css
@@ -26,6 +27,7 @@ Artefatos da funcionalidade cadastro/login
 ●script.js 
 
 Estrutura de Dados
+
 ●(login.html)
 
 ●(login.css)
@@ -52,18 +54,23 @@ RF-001: A aplicação web deve permitir ao usuário cadastrar seus dados pessoai
 
 Artefatos da funcionalidade Dados pessoais
 
-●index.html-paglog
+●index.html-pag2
 
 ●index.css-pag2
 
 ●script.js-pag2
 
-Estrutura de Dados ●(login.html) ●(login.css)
+Estrutura de Dados 
+
+●(login.html) 
+
+●(login.css)
+
 
 Instruções de acesso
-Apos ter efetuado o login na pagina de Login/cadastro sera direcionado para a pagina de dados pessoais:
-Cadastre suas informações e clique em "cadastrar".
-Após o cadastrar, terá acesso à tela inicial.
+1. Apos ter efetuado o login na pagina de Login/cadastro sera direcionado para a pagina de dados pessoais:
+2. Cadastre suas informações e clique em "cadastrar".
+3. Após cadastrar, terá acesso à tela inicial.
 
 # Tela de Perfil (RF-005)
 
