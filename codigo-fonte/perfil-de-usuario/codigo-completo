@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página de Saúde</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         /* Estilos Globais */
         body {
@@ -160,6 +158,9 @@
             text-align: center;
             border-radius: 0 0 10px 10px;
         }
+
+        /* Adicione a referência à biblioteca Chart.js */
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     </style>
 </head>
 <body>
@@ -236,7 +237,8 @@
                 <div class="edit-section">
                     <input type="number" id="humor-bom" placeholder="Humor Bom">
                     <input type="number" id="humor-medio" placeholder="Humor Médio">
-                    <input type="number" id="humor-ruim" placeholder="Humor Ruim">
+                   
+<input type="number" id="humor-ruim" placeholder="Humor Ruim">
                     <button onclick="updateChart('chart5', [parseInt(document.getElementById('humor-bom').value), parseInt(document.getElementById('humor-medio').value), parseInt(document.getElementById('humor-ruim').value)])">Atualizar</button>
                 </div>
             </div>
@@ -257,14 +259,44 @@
         </footer>
     </div>
 
+    <!-- Inclusão da biblioteca Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const chart1 = createPieChart('chart1', ['Seguindo', 'Não Seguindo'], [30, 70]);
-            const chart2 = createPieChart('chart2', ['Peso Perdido', 'Peso Estável'], [50, 50]);
-            const chart3 = createPieChart('chart3', ['Horas Dormidas', 'Horas Não Dormidas'], [70, 30]);
-            const chart4 = createPieChart('chart4', ['Consumo Baixo', 'Consumo Médio', 'Consumo Alto'], [20, 30, 50]);
-            const chart5 = createPieChart('chart5', ['Humor Bom', 'Humor Médio', 'Humor Ruim'], [50, 30, 20]);
-            const chart6 = createPieChart('chart6', ['Corrida Curta', 'Corrida Média', 'Corrida Longa'], [30, 50, 20]);
+            const chartData = {
+                "chart1": {
+                    "labels": ["Seguindo", "Não Seguindo"],
+                    "data": [30, 70]
+                },
+                "chart2": {
+                    "labels": ["Peso Perdido", "Peso Estável"],
+                    "data": [50, 50]
+                },
+                "chart3": {
+                    "labels": ["Horas Dormidas", "Horas Não Dormidas"],
+                    "data": [70, 30]
+                },
+                "chart4": {
+                    "labels": ["Consumo Baixo", "Consumo Médio", "Consumo Alto"],
+                    "data": [20, 30, 50]
+                },
+                "chart5": {
+                    "labels": ["Humor Bom", "Humor Médio", "Humor Ruim"],
+                    "data": [50, 30, 20]
+                },
+                "chart6": {
+                    "labels": ["Corrida Curta", "Corrida Média", "Corrida Longa"],
+                    "data": [30, 50, 20]
+                }
+            };
+
+            const charts = {};
+
+            for (const chartId in chartData) {
+                const data = chartData[chartId];
+                charts[chartId] = createPieChart(chartId, data.labels, data.data);
+            }
 
             document.getElementById('file-input').addEventListener('change', function(event) {
                 const file = event.target.files[0];
@@ -283,7 +315,7 @@
                     return;
                 }
 
-                const chart = Chart.getChart(chartId);
+                const chart = charts[chartId];
                 chart.data.datasets[0].data = newData;
                 chart.update();
                 alert('Dados atualizados com sucesso!');
