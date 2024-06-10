@@ -8,6 +8,8 @@ Usuário preenche os campos "Email” ou “Senha", "Confirmaçāo de Email” o
 
 ![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ca5b3ff4-4e1c-44a1-9861-7576256410de)
 
+CT-03: Recuperar ou alterar a senha.
+
 Recuperar ou alterar a senha.
 
 Usuário clica em "esqueceu senha".
@@ -30,12 +32,14 @@ Se as informações de usuário forem válidas, o login será bem sucedido.
 
 ![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cc715b8a-4cb9-4624-babc-567b7bcaa201)
 
+CT-04 - Verificar o login de usuários.
+
 Usuario preenche os campos de dados pessoais de forma correta.
 
 ![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
 
 
-CT-03: Perfil de Usuario.
+CT-05 Perfil de Usuario
 
 Responsável: Alexsander.
 
@@ -48,7 +52,7 @@ Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar.
 ![pp3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/7d6daadc-9f98-41e4-9009-83aa5042b2b5)
 
 
-CT-04: Verificar a tela de receita  .
+CT-06 Verificar a tela de receita  .
 
 Responsável: Ryan.
 
@@ -63,7 +67,7 @@ Verificar o funcionamento no botão "Next", que direciona para a próxima receit
 ![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/076368fe-21d6-46f3-8adf-1fd6bbb6349d)
 
 
-CT-05: Verificar página vídeos. <br>
+CT-07 - Verificar página vídeos <br>
 
 Responsável: Paola.  <br>
 
