@@ -1,33 +1,8 @@
 
 # Referências Bibliográficas
 
-
-**JSON JavaScript:**
-- W3Schools. JSON JavaScript. Disponível em: [W3Schools - JSON JavaScript](https://www.w3schools.com/js/js_json_intro.asp)
-- MDN Web Docs. JSON - JavaScript | MDN. Disponível em: [MDN Web Docs - JSON - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-- JavaScript.info. JSON Methods, toJSON. Disponível em: [JavaScript.info - JSON Methods, toJSON](https://javascript.info/json)
-
-**Armazenamento Web:**
-- MDN Web Docs. Using the Web Storage API. Disponível em: [MDN Web Docs - Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
-- W3Schools. HTML Web Storage. Disponível em: [W3Schools - HTML Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
-
-**Recursos e Ferramentas/Tutoriais:**
-- Smashing Magazine. Disponível em: [Smashing Magazine](https://www.smashingmagazine.com/)
-
-**CSS:**
-- MDN Web Docs. CSS - Cascading Style Sheets | MDN. Disponível em: [MDN Web Docs - CSS - Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**HTML:**
-- MDN Web Docs. HTML - Hypertext Markup Language | MDN. Disponível em: [MDN Web Docs - HTML - Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- Codecademy. Learn HTML. Disponível em: [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
-
-**JavaScript:**
-- MDN Web Docs. JavaScript | MDN. Disponível em: [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- W3Schools. JavaScript Tutorial. Disponível em: [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
-- Codecademy. Learn JavaScript. Disponível em: [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- JavaScript.info. Disponível em: [JavaScript.info](https://javascript.info/)
-
-**Visual Code:**
-- Visual Studio Code Documentation. Disponível em: [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
-
+SANTIAGO, Renato. Entenda a importância de ter uma rotina de treino. Saúde Treino, [S. l.], p. 1, 1 fev. 2022. Disponível em: [ http://....   ]https://horadotreino.com.br/importancia-de-ter-uma-rotina-de-treino/. Acesso em: 18 abr. 2024. <br>
+Revista torta. O SÉCULO DO ESTRESSE: COMO O BURNOUT ESTÁ AMEAÇANDO A SAÚDE DE TRABALHADORES. MEDIUM, [S. l.], p. 1, 22 set. 2021. Disponível em:[ http://....   ]https://medium.com/revistatorta/o-século-do-estresse-como-o-burnout-está-ameaçando-a-saúde-de-trabalhadores-a9ca98c49541. Acesso em: 14 mar. 2024. <br>
+BALERINNE, Rafaella. HTML, CSS e Javascript, quais as diferenças?. Alura, [S. l.], p. 1, 18 set. 2023. Disponível em: [ http://....   ]https://www.alura.com.br/artigos/html-css-e-js-definicoes. Acesso em: 11 abr. 2024 <br>
+Enciclopedia. Psicologia das Cores. Enciclopédia significados, [S. l.], p. 1, 18 set. 2023. Disponível em: [ http://....   ]https://www.significados.com.br/psicologia-das-cores/. Acesso em: 27 abr. 2024. 
 
