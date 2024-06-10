@@ -2,7 +2,7 @@
 
 CT-02: Verificar o cadastro de usuários.
 
-Responsável: Ryan.
+Responsável: .
 
 Usuário preenche os campos "Email” ou “Senha" e "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes
 
@@ -65,8 +65,8 @@ Responsável:Ryan.
 CT-07: Verificar a tela de receita  .
 
 Responsável: Ryan.
-![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/75d74780-7cd7-446b-b134-98efa650581c)
-![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/4c00ea38-bc71-45ed-975f-9d45b066d98a)
+![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/94300809-71b2-4e3a-a7cd-885f3d81fc67)
+![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/076368fe-21d6-46f3-8adf-1fd6bbb6349d)
 
 
 
