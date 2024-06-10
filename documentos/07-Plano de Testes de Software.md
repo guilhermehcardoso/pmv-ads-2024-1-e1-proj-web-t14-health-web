@@ -38,7 +38,7 @@
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
 | Responsável |Nome: Guilherme   |
 
-|Caso de Teste    | CT-06 Receita do dia  | 
+|Caso de Teste    | CT-06 Verificar a tela de receita  | 
 |:---|:---|
 | Requisitos Associados |RF-03	A aplicação web deve ter informações sobre nutrição, exercícios e autocuidado <br> RF- 04	A aplicação web deve disponibilizar um planejador de dieta personalizado, levando em consideração as preferencias e meta do usuário. <br> RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário.|
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
