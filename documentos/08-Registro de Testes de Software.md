@@ -58,7 +58,7 @@ Verificar a Receita.
 
 ![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/94300809-71b2-4e3a-a7cd-885f3d81fc67)
 
-Verificar o funcionamento no botão "Next", que direciona para a próxima receita e o botão "Previos", que retorna para a receita anterior.
+Verificar o funcionamento no botão "Next", que direciona para a próxima receita e o botão "Previous", que retorna para a receita anterior.
 
 ![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/076368fe-21d6-46f3-8adf-1fd6bbb6349d)
 
