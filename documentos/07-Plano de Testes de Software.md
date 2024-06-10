@@ -14,7 +14,7 @@
 | Critérios de êxito | O usuário tem uma conta criada no site Health Web  |
 | Responsável |Nome: Alexsander lima  |
 
-|Caso de Teste    | CT-02 - Recuperar ou alterar a senha |
+|Caso de Teste    | CT-03 - Recuperar ou alterar a senha |
 |:---|:---|
 | Requisitos Associados | RF-06 - O sistema deve permitir que os usuários recuperem suas senhas caso as esqueçam ou necessitem alterá-las por motivos de segurança. |
 | Objetivo do Teste | Verificar se o usuário consegue recuperar a senha |
@@ -22,7 +22,7 @@
 | Critérios de êxito | Uma nova senha é definida |
 | Responsável |Nome: Alexsander lima  |
 
-|Caso de Teste    | CT-02 - Verificar o login de usuários. |
+|Caso de Teste    | CT-04 - Verificar o login de usuários. |
 |:---|:---|
 | Requisitos Associados | RF-01	Cada usuário deve fazer o login na página através de um e-mail e uma senha |
 | Objetivo do Teste | Verificar se o usuário consegue fazer o login |
@@ -30,7 +30,7 @@
 | Critérios de êxito | O usuario é redirecionado para pagina de dados pessoais |
 | Responsável |Nome: Alexsander lima   |
 
-|Caso de Teste    | CT-03 -Perfil de Usuario  |
+|Caso de Teste    | CT-05 -Perfil de Usuario  |
 |:---|:---|
 | Requisitos Associados | RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário. <br> RF- 07	A aplicação web deve permitir ao usuário acompanhar seu progresso como peso e medidas corporais. <br> RF- 09	A aplicação web deve incluir um sistema de gamificação, onde os usuários possam ganhar ao realizar suas metas <br> RF- 10	A aplicação web deve permitir ao usuário visualizar o seu consumo calórico e níveis de atividade física. |
 | Objetivo do Teste | beneficiar ao usuario a ter bons resutados |
@@ -38,7 +38,7 @@
 | Critérios de êxito |direcionamento a pagina de receita do dia  |
 | Responsável |Nome: Guilherme   |
 
-|Caso de Teste    | CT-04- Receita do dia  | 
+|Caso de Teste    | CT-06 Receita do dia  | 
 |:---|:---|
 | Requisitos Associados |RF-03	A aplicação web deve ter informações sobre nutrição, exercícios e autocuidado <br> RF- 04	A aplicação web deve disponibilizar um planejador de dieta personalizado, levando em consideração as preferencias e meta do usuário. <br> RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário.|
 | Objetivo do Teste | beneficiar ao usuario a ter uma alimentação Sauldável  |
@@ -46,7 +46,7 @@
 | Critérios de êxito | pagina de exercicio  |
 | Responsável |Nome: Paola  |
 
-|Caso de Teste    | CT-05 - Verificar página vídeos |
+|Caso de Teste    | CT-07 - Verificar página vídeos |
 |:---|:---|
 | Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino <br> RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário. |
 | Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
