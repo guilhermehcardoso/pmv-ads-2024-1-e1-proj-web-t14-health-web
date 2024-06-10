@@ -15,38 +15,6 @@ RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se log
 
 ![tela de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/5186a41a-e942-4011-816e-60c7f69bfa4c)
 
-[RF-01: A aplicação web deve permitir ao usuário cadastrar uma conta. ]
-
-![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/95fdc074-cac5-493d-bbe0-6b34e2d44317)
-
-[RF-01: A aplicação web deve permitir ao usuário fazer login. ]
-
-![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/043c940b-7fd1-4299-8653-97350569900e)
-
-[RF-01: A aplicação web deve permitir que o usuario recupere senha. ]
-
-![esqueci a senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/d615593c-a9eb-40a1-9dc4-6f93bd36dd3e)
-
-[RF-01: A aplicação web deve permitir ao usuário cadastrar uma nova senha. ]
-
-![nova senha cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/8ff1a566-64e9-45d1-8f5e-55faff30cff5)
-
-[RF-01: A aplicação web deve informar quando os campos estiverem divergentes no login. ]
-
-![usuario ou senha incorretos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ea77cd03-9161-4962-b0c3-ef4abd1b6359)
-
-[RF-01: A aplicação web deve informar quando os campos estiverem divergentes no cadastro . ]
-
-![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/bf27ede0-58de-4cdf-a20e-9f932ef9fe94)
-
-[RF-01: A aplicação web deve armazenar os dados do usuario. ]
-
-![usuario cadastrado localstorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/203c6dab-8617-4a5a-a071-d092840d8aee)
-
-[RF-01: A aplicação web deve permitir ao usuário cadastrar dados pessoais. ]
-
-![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/da339847-6e0d-4ec6-aea7-ba3992735a34)
-
 ## Requisitos atendidos
 RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
 
@@ -73,6 +41,12 @@ Estrutura de Dados
 3. Crie um email e uma senha, insira-os e em seguida clique em "Entrar".
 4. Após o entrar, terá acesso à tela de cadastro de informações pessoais.
 5. Cadastre suas informações e sera direcionado a pagina "perfil" .
+
+Requisitos atendidos
+
+![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/da339847-6e0d-4ec6-aea7-ba3992735a34)
+
+
 
 #### Responsável
 
