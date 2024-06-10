@@ -121,7 +121,7 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
-# Página de Receitas (RF-0)
+# Página de Receitas (RF-03)
 Responsável: Paola
 
 O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. 
