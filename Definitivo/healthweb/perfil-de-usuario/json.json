@@ -1,0 +1,25 @@
+{
+    "nome": "João da Silva",
+    "idade": 30,
+    "localizacao": "São Paulo, Brasil",
+    "foto": "https://cdn.pixabay.com/photo/2018/04/18/18/56/user-3331256__340.png"
+}
+
+
+{
+    "perda_de_peso": {
+        "titulo": "Perda de Peso",
+        "dados_grafico": [10, 90],
+        "descricao": "Perdeu 10kg"
+    },
+    "corrida": {
+        "titulo": "Corrida",
+        "dados_grafico": [100, 900],
+        "descricao": "Correu 100 milhas"
+    },
+    "alimentacao_saudavel": {
+        "titulo": "Alimentação Saudável",
+        "dados_grafico": [50, 50],
+        "descricao": "Seguiu a dieta por 50 dias"
+    }
+}
