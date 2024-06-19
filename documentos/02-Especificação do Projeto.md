@@ -7,7 +7,7 @@
         </tr>
         <tr>
             <td>Descrição:   </td>
-            <td>Trabalhador atarefado que tem dificuldades para encaixar a atividade física e hábitos de alimentação saudável em sua rotina.</td>
+            <td>Pessoas que, de modo geral, buscam informações e conhecimento abrangente em diversas áreas da saúde.</td>
         </tr>
         <tr>
             <td>Necessidades:  </td>
