@@ -123,16 +123,17 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
-# Página de Receitas (RF-03)
+# Página de Alimentação (RF-03)
 Responsável: Paola
 
-O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. 
+O acesso a tela de receitas poderá ser feito através da opção do menu “Alimentação”. 
 
 As estruturas de dados foram feitas feitas o React sntaxe do html css e java e json. 
 
-Exemplo da tela de Receitas:
+Exemplo da tela de A:
 
-![pag1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/2807515a-eaaa-4fbd-bbcf-654d2a85f0de)
+![paola1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/96434c4a-afa5-441c-9758-56c449c84b8d)
+
 
 ### Requisito atendido
 sintaxe
@@ -141,25 +142,21 @@ js
 json
 
 Instruções de acesso
-1. na pagina inicial aparece o whatsapp da nutricionita e o ebook em seguida.
-2.descendo a aba aparece a receita do dia 
+1. Na pagina inicial aparece o whatsapp da nutricionita e o ebook em seguida. <br>
+2. Descendo a aba aparece a receita do dia 
 
-# Página de Receitas (RF-04)
+# Página de Alimentação (RF-04)
 
 Responsável: Paola
 
-O acesso a tela de receitas poderá ser feito através da opção do menu “Receitas”. 
+O acesso a tela de receitas poderá ser feito através da opção do menu “Alimentação”. 
 Exemplo da tela de Receitas:
-![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/4fdb568c-2d3f-4844-92f0-45a321a2d6a8)
-![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/f4a9323e-261c-4b5c-b0d2-a2a2daae8d1c)
+![paola2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/08a4ed5e-3832-4fde-868d-1ea8b7c71590)
+
 
 Receita 
 reach
 sntaxe do html css e java e json.
-
-### Instruções de acesso
-1. em receita aparece o botão next (proximo) e Previous (anterior).
-2 - Clicando o em next o usuario vai para a proxima receita e previons anterior .
 
 # Página vídeos (RF-011)
 Responsável: Ryan Gustavo
@@ -167,7 +164,7 @@ Responsável: Ryan Gustavo
 O acesso a tela de vídeos poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Vídeos:
-![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/4798a445-e69c-4425-82d1-b29640969b02)
+![ryan1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/93b59c70-8f38-4e18-9395-70d63b416ad8)
 
 
 ### Requisito atendido
