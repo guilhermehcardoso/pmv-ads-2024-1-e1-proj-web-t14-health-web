@@ -43,29 +43,23 @@ Usuario preenche os campos de dados pessoais de forma correta.
 
 Responsável: Alexsander.
 
-![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/ad233484-341f-4bcc-8ca9-1cceeb0fedd3)
+![gui- imagem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/eb951d1a-01ca-43ab-972e-020ba9e80900)
+
 
 Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar. 
 
-![pp2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/1dbf067e-87df-42ba-927b-5a024083681d)
-
-![pp3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/7d6daadc-9f98-41e4-9009-83aa5042b2b5)
+![gui-inteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/b95a9355-be2c-4273-b71a-a7344a08be25)
 
 
-**CT-06 Verificar a tela de receita.**
+
+**CT-06 Verificar a tela de alimentação.**
 
 Responsável: Ryan.
-
-![Captura de tela 2024-06-08 201558](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/6baafeed-684c-4044-b3b2-b9f2d99e9c69)
+![paola1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/bafdd389-1aa6-4db7-ba2e-5c4cb44f6941)
 
 Verificar a Receita.
 
-![Captura de tela 2024-06-08 201658](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/94300809-71b2-4e3a-a7cd-885f3d81fc67)
-
-Verificar o funcionamento no botão "Next", que direciona para a próxima receita e o botão "Previous", que retorna para a receita anterior.
-
-![Captura de tela 2024-06-08 201802](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/076368fe-21d6-46f3-8adf-1fd6bbb6349d)
-
+![paola2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/efcd7f0f-cc44-4328-9727-915f159844c9)
 
 **CT-07 - Verificar página vídeos <br>**
 
@@ -73,16 +67,15 @@ Responsável: Paola.  <br>
 
 Página vídeos:
 
-![telainteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/f3ee4c05-050a-43a7-966e-9d0ae27e1d09) <br>
+![ryan1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/f56acca9-991f-469e-a9e7-95e6a29f5522) <br>
 
 Caso queira enviar as sugestões:
 
-![aceitamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/3cce2453-0c1b-4ccb-914b-589a784bc1bb)
-
+![ryan2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/260d97b1-f00b-4d34-aa51-bc2f8bea2fd2)
 
 Caso clique em umas das playlist de alongue-se:
-![fotopaylist](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/610372bc-8b88-4901-96d0-fd13a0860fc6)
 
+![ryan3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/cf1c2927-a24a-43c5-8096-df71c1d209e3)
 
 
 # Avaliação:
