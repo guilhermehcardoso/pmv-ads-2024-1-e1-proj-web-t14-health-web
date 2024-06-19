@@ -78,17 +78,19 @@ Responsável: Guilherme
 
 O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-![pp1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/d7f75b08-23b0-4064-9267-fcf1d9565cd1)
+![gui- imagem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/7bc36ea9-02a9-49f4-8426-fe307be847b0)
+
 
 #### Requisito atendido
 
 [RF-005: O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. ]
 
-![pp11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/e6f12479-f2ef-43e5-ad8e-9dd1ddbe2fc8)
+![gui-imagem 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/fb9a1a8c-c171-4771-b0b8-47cf1946a767)
+
 
 [RF-005: o site deve permitir ao usuário trocar a imagem ao selecionar na foto de perfil]
 
-![pp22](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/3fd5b213-a37b-4588-bc9f-d8610d88e7da)
+![gui- imagem 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/eae9e703-1744-4036-b331-82d442dad093)
 
 [RF-005: O site deve permitir ao usuário atualizar os dados dos seus gráficos com metas e ganhos pessoais.]
 
