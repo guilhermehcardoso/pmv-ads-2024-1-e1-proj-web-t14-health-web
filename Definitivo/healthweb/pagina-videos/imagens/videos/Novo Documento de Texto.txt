@@ -1,0 +1,17 @@
+video 1 - <iframe class="video-1" width="300" height="170"
+            src="https://www.youtube.com/embed/ALrxeixOMPg?si=eKYVf0QSWpD63fr4" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+video 2- <iframe class="video-2" width="300" height="170" src="https://www.youtube-nocookie.com/embed/qGFPYY-yb_0?si=8aBUun4hSNnBvWkO"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video-3" width="300" height="170" src="https://www.youtube-nocookie.com/embed/Hpq3AyG-OAE?si=PCsy08L9TFw4e2-d"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe img class="video-4" width="300" height="170" src="https://www.youtube-nocookie.com/embed/9fhcZFUpnaU?si=4peY7nVfZfcip2MI"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
