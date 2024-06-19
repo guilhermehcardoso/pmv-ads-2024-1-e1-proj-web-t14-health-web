@@ -1,4 +1,11 @@
 # Registro de Testes de Software
+**CT-01: Verificar página inicial.**
+
+Responsável: 
+
+Usuário terá acesso ao ínicio e podera se cadastrar no site. Acessando assim as páginas de login e cadastro ao clicar no botão "Cadastre-se".
+![paginicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/fe264716-c593-4539-a5e6-46704647b36f)
+
 
 **CT-02: Verificar o cadastro de usuários.**
 
