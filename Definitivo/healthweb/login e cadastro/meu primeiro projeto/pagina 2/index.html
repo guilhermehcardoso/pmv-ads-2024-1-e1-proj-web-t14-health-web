@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tela de Login e Cadastro</title>
+  <link rel="stylesheet" href="index.css">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/smkrHNL/337052467-74efb6b9-07bd-468a-a642-7d114b2a2223.png"
+     alt="337052467-74efb6b9-07bd-468a-a642-7d114b2a2223" border="0"></a>
+  <style>
+    .objetivo-options {
+      display: none;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      position: absolute;
+      width: 150px;
+      z-index: 1;
+    }
+
+    .objetivo-options a {
+      color: #333;
+      padding: 10px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .objetivo-options a:hover {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Informe seus dados</h2>
+    <form id="cadastroForm" onsubmit="return validarCadastro()">
+      <label for="idade">Idade:</label>
+      <input type="number" id="idade" name="idade" placeholder="Idade" required>
+      
+      <label for="peso">Peso (kg):</label>
+      <input type="number" id="peso" name="peso" placeholder="Peso (kg)" required>
+      
+      <label for="altura">Altura (cm):</label>
+      <input type="number" id="altura" name="altura" placeholder="Altura (cm)" required>
+      
+      <label for="genero">Gênero:</label>
+      <select id="genero" name="genero" required>
+        <option value="">Selecione o gênero</option>
+        <option value="masculino">Masculino</option>
+        <option value="feminino">Feminino</option>
+        <option value="outro">Outro</option>
+      </select>
+      
+      <div class="spacer"></div> 
+      <h2>Qual seu objetivo?</h2>
+      <div class="objetivo">
+        <input type="text" id="objetivo" name="objetivo" readonly onclick="showOptions()" placeholder="Selecione o objetivo...">
+        <div class="objetivo-options" id="objetivoOptions">
+          <a href="#" onclick="setObjective('Perder Peso')">Perder Peso</a>
+          <a href="#" onclick="setObjective('Ganhar Massa')">Ganhar Massa</a>
+          <a href="#" onclick="setObjective('Manter Peso')">Manter Peso</a>
+          <a href="#" onclick="setObjective('Definição')">Definir</a>
+          <a href="#" onclick="setObjective('Saúde BemEstar')">Saúde e Bem-Estar</a>
+          <a href="#" onclick="setObjective('Alimentação')">Saúde e Bem-Estar</a>
+        </div>
+      </div>
+      
+      <button type="submit">Cadastrar</button>
+    </form>
+  </div>
+
+  <script>
+    function showOptions() {
+      var options = document.getElementById("objetivoOptions");
+      if (options.style.display === "block") {
+        options.style.display = "none";
+      } else {
+        options.style.display = "block";
+      }
+    }
+
+    function setObjective(value) {
+      document.getElementById("objetivo").value = value;
+      document.getElementById("objetivoOptions").style.display = "none";
+    }
+
+    // Função para validar o cadastro
+    function validarCadastro() {
+      var idade = document.getElementById('idade').value;
+      var peso = document.getElementById('peso').value;
+      var altura = document.getElementById('altura').value;
+      var genero = document.getElementById('genero').value;
+      var objetivo = document.getElementById('objetivo').value;
+
+      if (!idade || !peso || !altura || !genero || !objetivo) {
+        alert("Por favor, preencha todos os campos.");
+        return false;
+      }
+
+      alert("Usuário cadastrado");
+      return true;
+    }
+  </script>
+
+<script>
+	
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	
+</script>
+</body>
+</html>
