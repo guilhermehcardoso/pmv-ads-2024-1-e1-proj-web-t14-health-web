@@ -62,11 +62,11 @@ Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar.
 **CT-06 Verificar a tela de alimentação.**
 
 Responsável: Ryan.
-![paola1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/bafdd389-1aa6-4db7-ba2e-5c4cb44f6941)
+![Captura de tela 2024-06-20 201121](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/1c343c63-0239-4e09-88fa-068bb41318c4)
 
-Verificar a Receita.
 
-![paola2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/efcd7f0f-cc44-4328-9727-915f159844c9)
+![Captura de tela 2024-06-20 201239](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/d1ea5927-1422-4753-ad18-057c023f68f6)
+
 
 **CT-07 - Verificar página vídeos <br>**
 
