@@ -128,18 +128,18 @@ Responsável: Paola
 
 O acesso a tela de receitas poderá ser feito através da opção do menu “Alimentação”. 
 
-As estruturas de dados foram feitas feitas o React sntaxe do html css e java e json. 
+As estruturas de dados foram feitas feitas o html css e java
 
 Exemplo da tela de A:
 
-![paola1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/96434c4a-afa5-441c-9758-56c449c84b8d)
+![Captura de tela 2024-06-20 201121](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/df990925-be7a-4a7e-83e3-810dec1485a8)
+
 
 
 ### Requisito atendido
-sintaxe
-html 
-js
-json
+html
+css
+java
 
 Instruções de acesso
 1. Na pagina inicial aparece o whatsapp da nutricionita e o ebook em seguida. <br>
@@ -151,12 +151,10 @@ Responsável: Paola
 
 O acesso a tela de receitas poderá ser feito através da opção do menu “Alimentação”. 
 Exemplo da tela de Receitas:
-![paola2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/08a4ed5e-3832-4fde-868d-1ea8b7c71590)
-
+![Captura de tela 2024-06-20 201239](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/27dacd99-7fbb-4b82-9893-bbca28689f97)
 
 Receita 
-reach
-sntaxe do html css e java e json.
+html ,receita foi feita em json css e java.
 
 # Página vídeos (RF-011)
 Responsável: Ryan Gustavo
