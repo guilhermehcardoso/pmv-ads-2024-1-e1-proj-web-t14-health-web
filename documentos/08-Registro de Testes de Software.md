@@ -85,8 +85,4 @@ Caso clique em umas das playlist de alongue-se:
 ![ryan3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/cf1c2927-a24a-43c5-8096-df71c1d209e3)
 
 
-# Avaliação:
-
-Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão acrescentadas melhorias no layout e responsividade da aplicação.
-
 
