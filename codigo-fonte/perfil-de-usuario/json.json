@@ -1,0 +1,77 @@
+<!-- Inclusão da biblioteca Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const chartData = {
+            "chart1": {
+                "labels": ["Seguindo", "Não Seguindo"],
+                "data": [30, 70]
+            },
+            "chart2": {
+                "labels": ["Peso Perdido", "Peso Estável"],
+                "data": [50, 50]
+            },
+            "chart3": {
+                "labels": ["Horas Dormidas", "Horas Não Dormidas"],
+                "data": [70, 30]
+            },
+            "chart4": {
+                "labels": ["Consumo Baixo", "Consumo Médio", "Consumo Alto"],
+                "data": [20, 30, 50]
+            },
+            "chart5": {
+                "labels": ["Humor Bom", "Humor Médio", "Humor Ruim"],
+                "data": [50, 30, 20]
+            },
+            "chart6": {
+                "labels": ["Corrida Curta", "Corrida Média", "Corrida Longa"],
+                "data": [30, 50, 20]
+            }
+        };
+
+        const charts = {};
+
+        for (const chartId in chartData) {
+            const data = chartData[chartId];
+            charts[chartId] = createPieChart(chartId, data.labels, data.data);
+        }
+
+        document.getElementById('file-input').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('profile-pic').src = e.target.result;
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        window.updateChart = function(chartId, newData) {
+            if (newData.some(isNaN)) {
+                alert('Por favor, insira valores válidos.');
+                return;
+            }
+
+            const chart = charts[chartId];
+            chart.data.datasets[0].data = newData;
+            chart.update();
+            alert('Dados atualizados com sucesso!');
+        };
+    });
+
+    function createPieChart(chartId, labels, data) {
+        const ctx = document.getElementById(chartId).getContext('2d');
+        return new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: data,
+                    backgroundColor: ['#256aa5', '#36a2eb', '#4bc0c0']
+                }]
+            }
+        });
+    }
+</script>
