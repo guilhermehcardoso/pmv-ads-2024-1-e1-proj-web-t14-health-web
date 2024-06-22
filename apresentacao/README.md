@@ -1,7 +1,6 @@
 # Apresentação da Solução
 
 1. Apresentação de slides 
-file:///C:/Users/paola/Downloads/Apresentacao.-.Health.Web-2.pdf
 
 
 
