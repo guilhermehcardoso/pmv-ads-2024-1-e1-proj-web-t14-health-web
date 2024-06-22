@@ -59,16 +59,7 @@ Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar.
 
 
 
-**CT-06 Verificar a tela de alimentação.**
-
-Responsável: Ryan.
-![Captura de tela 2024-06-20 201121](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/1c343c63-0239-4e09-88fa-068bb41318c4)
-
-
-![Captura de tela 2024-06-20 201239](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/d1ea5927-1422-4753-ad18-057c023f68f6)
-
-
-**CT-07 - Verificar página vídeos <br>**
+**CT-06 - Verificar página vídeos <br>**
 
 Responsável: Paola.  <br>
 
@@ -83,6 +74,20 @@ Caso queira enviar as sugestões:
 Caso clique em umas das playlist de alongue-se:
 
 ![ryan3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/cf1c2927-a24a-43c5-8096-df71c1d209e3)
+
+
+
+**CT-07 Verificar a tela de alimentação.**
+
+Responsável: Ryan.
+![Captura de tela 2024-06-20 201121](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/1c343c63-0239-4e09-88fa-068bb41318c4)
+
+
+![Captura de tela 2024-06-20 201239](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/d1ea5927-1422-4753-ad18-057c023f68f6)
+
+
+
+
 
 
 
