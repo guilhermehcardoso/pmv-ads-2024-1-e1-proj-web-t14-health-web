@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-# PAgina inicial 
+# Pagina inicial 
 Responsavel:Paola/Ryan
 
 o acesso da Pagina inicial  tem o cabeçalho com a pagina de 
@@ -14,13 +14,7 @@ o acesso da Pagina inicial  tem o cabeçalho com a pagina de
  
 ![Captura de tela 2024-06-22 192132](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/cfe835ec-25cd-434d-835e-cac5598c4494)
 
-os codigos que foram ultizados foram: 
-
-●index.html
-
-●index.css
-
-●script.js 
+os codigos que foram ultizados foram: html ,css , java 
 
 
 A A Responsável
