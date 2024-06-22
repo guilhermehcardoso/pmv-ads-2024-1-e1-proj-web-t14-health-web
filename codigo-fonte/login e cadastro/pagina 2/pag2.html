@@ -11,9 +11,9 @@
   </div>
   <style>
     .logo {
-  text-align: center;
-  margin-top: 50px;
-}
+      text-align: center;
+      margin-top: 50px;
+    }
     .objetivo-options {
       display: none;
       background-color: #fff;
@@ -104,10 +104,20 @@
         return false;
       }
 
+
+      var usuario_info = {
+        idade: idade,
+        peso: peso,
+        altura: altura,
+        genero: genero,
+        objetivo: objetivo
+      };
+      localStorage.setItem('info_usuario', JSON.stringify(usuario_info ));
+
       alert("Usuário cadastrado");
 
       // Redireciona para outra página HTML após o cadastro bem-sucedido
-      window.location.href = 'https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/perfil-de-usuario/HTML.html'; 
+      window.location.href = 'https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html'; 
   
       return true;
     }
