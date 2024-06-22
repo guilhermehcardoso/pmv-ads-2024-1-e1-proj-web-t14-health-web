@@ -2,7 +2,6 @@
 
 1. Apresentação de slides 
 
-[Apresentação - Health Web.pdf](https://github.com/user-attachments/files/15934591/Apresentacao.-.Health.Web.pdf)
 
 
 
