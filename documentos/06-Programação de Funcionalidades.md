@@ -1,8 +1,28 @@
 # Programação de Funcionalidades
 
+# PAgina inicial 
+Responsavel:Paola/Ryan
 
+o acesso da Pagina inicial  tem o cabeçalho com a pagina de 
 
-#  Tela de login e cadastro (RF-01)
+    Ínicio,
+    Alimentação,
+    Vídeos,
+    Meu Perfil,
+
+ e um botão que é redirecionado a pagina de cadastro . 
+ 
+![Captura de tela 2024-06-22 192132](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/cfe835ec-25cd-434d-835e-cac5598c4494)
+
+os codigos que foram ultizados foram:
+html,
+css,
+java.
+
+A A Responsável
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html
+
+#  Tela de login e cadastro 
 
 Responsável: Alexsander Lima
 
@@ -34,7 +54,7 @@ Estrutura de Dados
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a seguinte URL:http://127.0.0.1:5502/index.html (provisoria)
+1. Abra um navegador de Internet e informe a seguinte https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/login%20e%20cadastro/index.html
 2. Ao clicar em "Login/Cadastro", terá acesso a página de Login e cadastro.
 3. Crie um email e uma senha, insira-os e em seguida clique em "Entrar".
 4. Após o entrar, terá acesso à tela de cadastro de informações pessoais.
@@ -119,9 +139,23 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 4. Após o cadastro, terá acesso à tela de login.
 5. Clique para a página de Meu Perfil e será direcionado.
 
-#### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+A A Responsável
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/perfil-de-usuario/HTML.html
+
+
+# Página vídeos (RF-011)
+Responsável: Ryan Gustavo
+
+O acesso a tela de vídeos poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Vídeos:
+![ryan1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/93b59c70-8f38-4e18-9395-70d63b416ad8)
+
+A A Responsável
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/pagina-videos/videos.html
+
+
 
 # Página de Alimentação (RF-03)
 Responsável: Paola
@@ -133,8 +167,6 @@ As estruturas de dados foram feitas feitas o html css e java
 Exemplo da tela de A:
 
 ![Captura de tela 2024-06-20 201121](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/df990925-be7a-4a7e-83e3-810dec1485a8)
-
-
 
 ### Requisito atendido
 html
@@ -156,27 +188,11 @@ Exemplo da tela de Receitas:
 Receita 
 html ,receita foi feita em json css e java.
 
-# Página vídeos (RF-011)
-Responsável: Ryan Gustavo
-
-O acesso a tela de vídeos poderá ser feito através da opção do menu “Vídeos”. As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-Exemplo da tela de Vídeos:
-![ryan1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/93b59c70-8f38-4e18-9395-70d63b416ad8)
+A A Responsável
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/pagina-alimentacao/Receita%20do%20dia/
 
 
-### Requisito atendido
-RF-011 - A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino.
-### Artefatos de funcionamento
-● videos.html <br>
-● video.css <br>
-● video.json <br>
-● timer.js <br>
-### Estrutura de Dados
-● videos.html
-### Instruções de acesso
-1- Abra um navegador com acesso a internet e acesse: <br>
-2 - Clique em “Vídeos” no canto superior direito da tela, isso fará o redirecionamento para a página de vídeos.
+
 
 
 
