@@ -38,7 +38,16 @@
 | Critérios de êxito |O usuario é redirecionado para pagina de Alimentação |
 | Responsável |Nome: Guilherme   |
 
-|Caso de Teste    | CT-06 Verificar a Alimentação  | 
+|Caso de Teste    | CT-06 - Verificar página vídeos |
+|:---|:---|
+| Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino <br> RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário. |
+| Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
+| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao superior direito clicar em "Vídeos" <br/> 3. Visualizar as informações referentes aos vídeos disponíveis na página.
+| Critérios de êxito | Direcionamento a página de vídeos |
+| Responsável |Nome: Ryan  |
+
+
+|Caso de Teste    | CT-07 Verificar a Alimentação  | 
 |:---|:---|
 | Requisitos Associados |RF-03	A aplicação Web deve oferecer uma pagina de alimentação.  <br> RF- 04	A aplicação web deve oferecer um ebook sobre alimentação saudável , dica de receita, e o Telefone da Nutricionista.
 | Objetivo do Teste | ter uma alimentação Sauldável com acopanhamento de um Nutricionista  |
@@ -46,12 +55,5 @@
 | Critérios de êxito |O usuario é redirecionado para pagina de video  |
 | Responsável |Nome: Paola  |
 
-|Caso de Teste    | CT-07 - Verificar página vídeos |
-|:---|:---|
-| Requisitos Associados | RF-011 A aplicação web deve oferecer vídeos de exercícios para auxiliar os usuários em suas rotinas de treino <br> RF- 02	A aplicação web deve ter um menu com algumas secções para o usuário. |
-| Objetivo do Teste | Orientar o usuario com vídeos para se ter melhora em sua vida. |
-| Passos | 1. Acessar o site <br/> 2. Na pagina inicial ao superior direito clicar em "Vídeos" <br/> 3. Visualizar as informações referentes aos vídeos disponíveis na página.
-| Critérios de êxito | Direcionamento a página de vídeos |
-| Responsável |Nome: Ryan  |
 
 
