@@ -14,10 +14,14 @@ o acesso da Pagina inicial  tem o cabeçalho com a pagina de
  
 ![Captura de tela 2024-06-22 192132](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/cfe835ec-25cd-434d-835e-cac5598c4494)
 
-os codigos que foram ultizados foram:
-html,
-css,
-java.
+os codigos que foram ultizados foram: 
+
+●index.html
+
+●index.css
+
+●script.js 
+
 
 A A Responsável
 https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html
