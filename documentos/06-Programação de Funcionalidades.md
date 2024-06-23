@@ -31,7 +31,7 @@ Exemplo da tela de cadastro:
 Requisitos atendidos
 RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar
 
-![tela de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/5186a41a-e942-4011-816e-60c7f69bfa4c)
+![captura ususario cadastrado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/b3c0fb92-3315-41c1-85cc-19f945072b82)
 
 ## Requisitos atendidos
 RF-001: A aplicação web deve permitir ao usuário cadastrar uma conta e se logar.
