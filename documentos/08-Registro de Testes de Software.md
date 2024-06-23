@@ -9,6 +9,10 @@ Usuário terá acesso ao ínicio e podera se cadastrar no site. Acessando assim 
 
 **CT-02: Verificar o cadastro de usuários.**
 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/167947707/e7039e79-ae89-4d3e-874f-ee7cb72a5ea5
+
+
 Responsável: Guilherme. 
 
 Usuário preenche os campos "Email” ou “Senha", "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes.
