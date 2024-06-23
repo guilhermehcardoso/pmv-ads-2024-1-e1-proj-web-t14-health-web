@@ -39,7 +39,7 @@ Dado a movimentada rotina moderna, as pessoas têm dificuldade em encontrar temp
 
 # Hospedagem
 
-* <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html">Pagina Principal</a>
+* <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html">Site</a>
 
 # Codigo Fonte
 
