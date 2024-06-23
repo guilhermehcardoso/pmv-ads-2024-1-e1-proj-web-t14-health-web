@@ -66,7 +66,9 @@ O acesso a tela de dados pessoais acontece após ser efetuado o login. As estrut
 
 Exemplo da tela de cadastro:
 
-![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/da339847-6e0d-4ec6-aea7-ba3992735a34)
+![dados do usuario cadastrasdo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/854854b0-d2be-4abb-a330-7aa4d9bfad39)
+
+
 
 RF-001: A aplicação web deve permitir ao usuário cadastrar seus dados pessoais.
 
