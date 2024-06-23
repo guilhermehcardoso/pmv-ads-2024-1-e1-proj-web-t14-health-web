@@ -13,7 +13,8 @@ Responsável: Guilherme.
 
 Usuário preenche os campos "Email” ou “Senha", "Confirmaçāo de Email” ou “Confirmaçāo de Senha" com valores diferentes.
 
-![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ca5b3ff4-4e1c-44a1-9861-7576256410de)
+![email ou senham diferentes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/ad9e2268-237b-4de4-80c9-71662e74d407)
+
 
 **CT-03: Recuperar ou alterar a senha.**
 
