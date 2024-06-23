@@ -23,7 +23,11 @@ Para a criação do logotipo da aplicação, foi utilizado o azul.
 
 
 
-# [Sem Página Inicial]
+# Tela Inicial
+Exibe informações sobre o sobre nosso site. <br>
+![projetopaginicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/dc1c9a6d-7545-4d6b-8780-c8444d626603)
+
+Figura 2 - Página Inicial.
 
 # Tela de visualização do perfil.
 Exibe informações sobre o perfil do usuário. <br>
