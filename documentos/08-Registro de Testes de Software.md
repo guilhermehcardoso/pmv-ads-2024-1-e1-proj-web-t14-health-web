@@ -22,29 +22,34 @@ Recuperar ou alterar a senha.
 
 Usuário clica em "esqueceu senha".
 
-![esqueci a senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/605cb54b-ce1a-403d-be47-6228f1a4a6b0)
+![esqueceu senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/54c5c7c6-7203-41ba-b5e8-5c1c2b4f25f5)
+
 
 Usuário cadastra nova senha.
 
-![nova senha cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/35bda55b-a1a6-41f7-ac61-b8e2dc3183c3)
+![nova senha ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/1bfce35d-66d7-4878-afb5-a6a71674c235)
 
 Verificar se o usuário foi cadastrado.
 
-![cadastro efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/885188d9-dc76-486b-984e-a739f3622db8)
+![captura ususario cadastrado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/9288e8c4-a0d4-472e-81a7-a280a23c2d40)
+
+
 
 Usuário preenche os campos "Email" e "Senha" diferente do usuário já cadastrado.
 
-![email ou senha nao coincidem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/7bc8373c-c74a-4e24-b82b-c2cc8e7a8e91)
+![usuario ou senha divergentes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/927dba5e-bd49-4af0-bcca-d31c6eaf10d8)
+
 
 Se as informações de usuário forem válidas, o login será bem sucedido.
 
-![login bem sucedido](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/cc715b8a-4cb9-4624-babc-567b7bcaa201)
+![login efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/04515a28-9f0d-4c4d-98b6-7d566ae98159)
+
 
 **CT-04 - Verificar o login de usuários.**
 
 Usuario preenche os campos de dados pessoais de forma correta.
 
-![informações pessoais cadastrada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/dac73b40-72ac-4c68-a94c-4feace5ff8be)
+![informações do usuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166670130/9ebbe228-852a-4b42-baa9-f51c8183a369)
 
 
 **CT-05 Perfil de Usuario**
