@@ -50,12 +50,21 @@ Usuario preenche os campos de dados pessoais de forma correta.
 
 Responsável: Alexsander.
 
-![gui- imagem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/eb951d1a-01ca-43ab-972e-020ba9e80900)
+![111](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/fbffdcfa-a823-4c1e-943c-26d3eca44346)
+
+
+Trocar a foto de perfil, se desejar.
+
+![33](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/896a19a5-de33-4d04-bd94-09aa6ea78eed)
+
+
+
 
 
 Fazer atualizaçôes de conquistas do usuário nos gráficos, se desejar. 
 
-![gui-inteira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/b95a9355-be2c-4273-b71a-a7344a08be25)
+![3333](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/67c03368-a3e6-450d-b181-b72ea34d7106)
+
 
 
 
