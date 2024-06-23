@@ -96,19 +96,20 @@ Responsável: Guilherme
 
 O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-![gui- imagem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/7bc36ea9-02a9-49f4-8426-fe307be847b0)
+![111](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/b465907f-3e83-4584-ace6-5bcb4fa9f964)
 
 
 #### Requisito atendido
 
 [RF-005: O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. ]
 
-![gui-imagem 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/fb9a1a8c-c171-4771-b0b8-47cf1946a767)
+![33](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/7de0d238-59c5-46fe-968b-9bbe0b1f6083)
+
 
 
 [RF-005: o site deve permitir ao usuário trocar a imagem ao selecionar na foto de perfil]
 
-![gui- imagem 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/163153963/eae9e703-1744-4036-b331-82d442dad093)
+![3333](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-health-web/assets/166960693/596fa030-b3b5-4db9-883e-b2959f4876a9)
 
 [RF-005: O site deve permitir ao usuário atualizar os dados dos seus gráficos com metas e ganhos pessoais.]
 
@@ -131,15 +132,13 @@ O acesso a tela de perfil é feito após o login do usuário na página Entrar, 
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a seguinte URL: 
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/perfil-de-usuario/HTML.html
 2. Ao clicar em "Cadastrar", terá acesso a página de cadastro.
 3. Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
 4. Após o cadastro, terá acesso à tela de login.
 5. Clique para a página de Meu Perfil e será direcionado.
 
 
-A A Responsável
-https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/perfil-de-usuario/HTML.html
 
 
 # Página vídeos (RF-011)
