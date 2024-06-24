@@ -202,6 +202,10 @@ O site deve permitir acesso a página de Alimentação com receitas, e entrar em
 
 ● video.json
 
+### Estrutura de Dados
+
+● alimentacao.html
+
 Instruções de acesso
 1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html
 2. Faça cadastro/login para entrar.
