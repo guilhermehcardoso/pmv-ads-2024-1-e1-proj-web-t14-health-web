@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title:Health Web
+authors:
+  - family-names:Lima De Andrade Vieira 
+    given-names:Alexsander 
+  - family-names:Ferrera Vieira 
+    given-names:Gabriel 
+  - family-names:Henrique Cardoso Souza 
+    given-names:Guilherme 
+  - family-names:Beltrão Santos  
+    given-names:Paola  
+  - family-names:Gustavo Torres  
+    given-names:Ryan 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nepomuceno Curto
+    given-names: Hayala
+keywords:
+   - Pratica de exercício 
+   - vida saudável  
+repository-code:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t14-health-web/codigo-fonte/index.html 
+version: 1.0.0
+date-released: 2024-6-21 
