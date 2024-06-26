@@ -45,6 +45,7 @@
                 <label for="file-input">Alterar foto</label>
             </div>
             <div>
+                <p id="nome">nome: </p>
                 <p id="email">E-mail: </p>
                 <p  id="idade">Idade: </p>
             </div>
@@ -127,6 +128,9 @@
 
                 var ageParagraph = document.querySelector("p#idade")
                 ageParagraph.textContent = "Idade:  " + info_usuario.idade;
+
+                var nome = document.querySelector("p#nome")
+                nome.textContent = "Nome:  " + usuario.nome;
 
         });
     </script>

@@ -23,7 +23,7 @@ body {
   text-align: center;
   margin-bottom: 20px;
 }
-
+input[type="text"],
 input[type="email"],
 input[type="password"],
 button {
